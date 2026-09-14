@@ -1,0 +1,21 @@
+.carousel { margin-bottom: 35px; min-width: 0; }
+.track { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 52px) / 3); gap: 26px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; padding: 6px 0 18px; text-align: left; }
+.track::-webkit-scrollbar { display: none; }
+.track > a { scroll-snap-align: start; display: flex; flex-direction: column; min-width: 0; }
+.track > a > div:first-child { flex-shrink: 0; }
+.track > a > div:last-child { display: flex; flex-direction: column; flex: 1; }
+.track > a > div:last-child > span { margin-top: auto; padding-top: 20px; }
+.track:focus-visible { outline: 2px solid #b59c56; outline-offset: 5px; }
+.track > a:focus-visible { outline-offset: -3px; }
+.controls { display: flex; align-items: center; gap: 22px; padding-top: 12px; }
+.progress { flex: 1; height: 3px; background: #395E4C18; border-radius: 3px; overflow: hidden; }
+.progress span { display: block; height: 100%; background: #b59c56; transition: width .25s ease; }
+.counter { font-size: 12px; letter-spacing: .08em; font-variant-numeric: tabular-nums; color: #395E4C; white-space: nowrap; }
+.buttons { display: flex; gap: 10px; }
+.buttons button { width: 48px; height: 48px; display: grid; place-items: center; border: 1px solid #395E4C; border-radius: 50%; background: #395E4C; color: #faf6e5; cursor: pointer; transition: background .2s, transform .2s; }
+.buttons button:hover:not(:disabled) { background: #395E4C; transform: translateY(-2px); }
+.buttons button:disabled { background: transparent; color: #395E4C; opacity: .3; cursor: default; }
+.buttons button:focus-visible { outline: 3px solid #b59c56; outline-offset: 4px; }
+@media (max-width: 900px) { .track { grid-auto-columns: calc((100% - 20px) / 2); gap: 20px; } }
+@media (max-width: 640px) { .track { grid-auto-columns: 90%; gap: 16px; } .controls { gap: 14px; } .buttons button { width: 44px; height: 44px; } }
+@media (prefers-reduced-motion: reduce) { .progress span, .buttons button { transition: none; } }

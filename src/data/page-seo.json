@@ -1,0 +1,928 @@
+{
+  "/": {
+    "metaTitle": "Massage in Abu Dhabi - Sara Beauty Spa",
+    "metaDescription": "Looking for a massage in Abu Dhabi? Sara Beauty spa offers relaxing, deep tissue & lymphatic massage with licensed female therapists. Book today!",
+    "faqs": [
+      {
+        "question": "How much does a full body massage cost in Abu Dhabi?",
+        "answer": "The cost of a full body massage in Abu Dhabi depends on the treatment and session duration. At Sara Beauty & Slimming Home Spa, you can check the available treatments and prices before booking your preferred session."
+      },
+      {
+        "question": "What is a full body massage?",
+        "answer": "A full body massage works on multiple areas of the body using massage techniques designed to promote relaxation, ease muscle tension, and support overall wellbeing. The techniques can vary depending on the type of massage selected."
+      },
+      {
+        "question": "How long does a full body massage take?",
+        "answer": "The duration of a full body massage depends on the treatment and session selected. Sara Beauty offers different massage options and session durations, allowing you to choose one that fits your needs and schedule."
+      },
+      {
+        "question": "Which massage is best for muscle tension?",
+        "answer": "Deep Tissue Massage is often chosen for areas of deeper muscle tension and stiffness. However, the most suitable massage depends on your individual needs, comfort, and the areas requiring attention."
+      },
+      {
+        "question": "How do I choose the right massage treatment?",
+        "answer": "Choose a massage based on your main goal, such as relaxation, muscle tension, recovery after physical activity, or general wellness. Sara Beauty offers Deep Tissue, Relaxing, Sports, Aromatherapy, Lymphatic Drainage, Maderotherapy, Thai, and Prenatal Massage options."
+      },
+      {
+        "question": "Are massages legal in the UAE?",
+        "answer": "Yes. Professional massage and spa services can be provided legally in the UAE when offered by appropriately licensed businesses and professionals in accordance with applicable local regulations. Sara Beauty provides professional massage and spa services in Abu Dhabi."
+      },
+      {
+        "question": "How can I book a massage in Abu Dhabi?",
+        "answer": "You can book a massage in Abu Dhabi by contacting Sara Beauty & Slimming Home Spa through WhatsApp or phone. Ask about available treatments, session durations, prices, and appointment availability before choosing your preferred massage."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DaySpa",
+          "@id": "https://sarabeauty.ae/#localbusiness",
+          "name": "Sara Beauty",
+          "alternateName": "Sara Beauty & Slimming Home Spa",
+          "url": "https://sarabeauty.ae/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://sarabeauty.ae/wp-content/uploads/2026/07/sara-beauty-logo.png"
+          },
+          "image": "https://sarabeauty.ae/",
+          "description": "Sara Beauty is a private spa in Abu Dhabi offering professional massage and wellness treatments including Deep Tissue, Relaxing, Sports, Aromatherapy, Lymphatic Drainage, Maderotherapy, Thai, Prenatal and other massage services.",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "priceRange": "AED 99-299",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          },
+          "sameAs": [
+            "https://www.instagram.com/"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Sara Beauty"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "email": "info@sarabeauty.ae",
+          "telephone": "+971556230899",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://sarabeauty.ae/wp-content/uploads/2026/07/sara-beauty-logo.png"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty Spa",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://sarabeauty.ae/#webpage",
+          "url": "https://sarabeauty.ae/",
+          "name": "Massage in Abu Dhabi - Sara Beauty Spa",
+          "description": "Looking for a professional massage in Abu Dhabi? Sara Beauty Spa provides a private and comfortable spa experience with experienced female therapists and a range of massage and wellness treatments.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#localbusiness"
+          },
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/about-us": {
+    "metaTitle": "About Us Sara Beauty's Spa & Massage, Wellness In Abu Dhabi",
+    "metaDescription": "Sara Beauty provides Luxury Massage & Spa Therapies in Abu Dhabi, We offer home spa massage & Spa services in Abu Dhabi, UAE.",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "AboutPage",
+          "@id": "https://sarabeauty.ae/about-us/#webpage",
+          "url": "https://sarabeauty.ae/about-us/",
+          "name": "About Us - Sara Beauty Spa",
+          "description": "Learn more about Sara Beauty, a private spa in Abu Dhabi offering professional massage and wellness treatments in a comfortable and private environment.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/about-us/#organization"
+          },
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/about-us/#organization",
+          "name": "Sara Beauty",
+          "alternateName": "Sara Beauty & Slimming Home Spa",
+          "url": "https://sarabeauty.ae/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://sarabeauty.ae/assets/color%20logo.png"
+          },
+          "description": "Sara Beauty is a private spa in Abu Dhabi providing professional massage and wellness treatments with experienced female therapists.",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty Spa",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/about-us/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/about-us/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "About Us",
+              "item": "https://sarabeauty.ae/about-us/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/services": {
+    "metaTitle": "Sara Beauty Professional Massage And Spa Services",
+    "metaDescription": "Sara Beauty provides Professional Massage And Spa Services home spa Massage, Deep Tissue Massage, & Corporate Wellness solutions And Home Spa.",
+    "faqs": [
+      {
+        "question": "What massage services does Sara Beauty offer in Abu Dhabi?",
+        "answer": "Sara Beauty offers Deep Tissue, Relaxing, Sports, Aromatherapy, Lymphatic Drainage, Prenatal, Postnatal, Thai, Hot Stone and other specialized massage treatments in Abu Dhabi."
+      },
+      {
+        "question": "How do I choose the right massage treatment?",
+        "answer": "The right massage depends on your goals and wellness needs. Deep Tissue can be suitable for muscle tension, while Relaxing and Aromatherapy Massage are popular for relaxation and stress relief."
+      },
+      {
+        "question": "Which massage is best for muscle tension?",
+        "answer": "Deep Tissue Massage is designed to provide focused pressure to areas of muscle tension and stiffness. Our therapists can help you choose a suitable treatment based on your needs."
+      },
+      {
+        "question": "Which massage is best for relaxation and stress relief?",
+        "answer": "Relaxing Massage and Aromatherapy Massage are suitable options for a calming experience and can help you unwind after a busy day."
+      },
+      {
+        "question": "Does Sara Beauty offer Prenatal and Postnatal Massage?",
+        "answer": "Yes. Sara Beauty offers Prenatal and Postnatal Massage treatments designed around the different needs of pregnancy and postpartum recovery."
+      },
+      {
+        "question": "How can I book a massage treatment at Sara Beauty?",
+        "answer": "You can contact Sara Beauty through WhatsApp to discuss your preferred massage treatment, availability and booking."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/services/#webpage",
+          "url": "https://sarabeauty.ae/services/",
+          "name": "Massage Services in Abu Dhabi | Sara Beauty",
+          "description": "Explore professional massage services in Abu Dhabi at Sara Beauty, including Deep Tissue, Relaxing, Sports, Aromatherapy, Lymphatic Drainage, Maderotherapy, Thai, Prenatal, Postnatal, Hot Stone and other wellness treatments.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/services/#business"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/services/#itemlist"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/services/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "DaySpa",
+          "@id": "https://sarabeauty.ae/services/#business",
+          "name": "Sara Beauty",
+          "alternateName": "Sara Beauty & Slimming Home Spa",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "description": "Sara Beauty is a private spa in Abu Dhabi offering professional massage and wellness treatments with experienced female therapists.",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          }
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/services/#itemlist",
+          "name": "Massage Services in Abu Dhabi",
+          "numberOfItems": 13,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Massage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Massage",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/services/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Massage Services",
+              "item": "https://sarabeauty.ae/services/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty Spa",
+          "inLanguage": "en-AE"
+        }
+      ]
+    }
+  },
+  "/services/postnatal-massage": {
+    "metaTitle": "Postnatal Massage in Abu Dhabi | Sara Beauty",
+    "metaDescription": "Enjoy a gentle postnatal massage in Abu Dhabi at Sara Beauty. A relaxing treatment focused on comfort, relaxation and wellness after pregnancy.",
+    "faqs": [
+      {
+        "question": "What is a Postnatal Massage?",
+        "answer": "A Postnatal Massage is a specialized therapy designed to support new mothers after childbirth. It uses gentle massage techniques to help reduce muscle tension, improve circulation, promote relaxation, and support postpartum recovery. At Sara Beauty, this treatment is available through our Massage Abu Dhabi service, allowing mothers to recover comfortably at Sara Beauty’s home spa."
+      },
+      {
+        "question": "What are the benefits of a Postnatal Massage?",
+        "answer": "Postnatal Massage offers several recovery and wellness benefits, including:\n\n- Helps relieve back, neck, and shoulder tension\n- Supports healthy blood circulation\n- Promotes relaxation and better sleep\n- Helps reduce postpartum stress\n- May help reduce muscle soreness and fatigue\n- Supports overall physical recovery after childbirth\n\nMany mothers also include it as part of their regular Sara beauty Spa Abu Dhabi wellness routine."
+      },
+      {
+        "question": "When can I get a Postnatal Massage after giving birth?",
+        "answer": "The right time depends on your delivery and your healthcare provider’s advice. Many women begin Postnatal Massage after receiving medical clearance, especially following a C-section or if there were any delivery complications. Always consult your doctor before booking your first postpartum massage."
+      },
+      {
+        "question": "Can I book a Postnatal Massage at Sara Beauty’s home spa in Abu Dhabi?",
+        "answer": "Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa."
+      },
+      {
+        "question": "How long does a Postnatal Massage session last?",
+        "answer": "Most Postnatal Massage sessions are available in 60-minute and 90-minute options. Your therapist will tailor the session according to your recovery stage, comfort level, and wellness goals."
+      },
+      {
+        "question": "Can Postnatal Massage be combined with other wellness treatments?",
+        "answer": "Yes. Many mothers combine Postnatal Massage with Post Lymphatic Massage to help manage swelling or Foot Reflexology to relieve tired feet and promote relaxation. Your therapist can recommend the most suitable treatment plan for your recovery."
+      },
+      {
+        "question": "Is Postnatal Massage safe after a C-section?",
+        "answer": "Postnatal Massage may be appropriate after a C-section once your doctor confirms that your incision has healed sufficiently. Your therapist will use gentle techniques and avoid sensitive areas until it is safe to do so."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://sarabeauty.ae/services/postnatal-massage/#webpage",
+          "url": "https://sarabeauty.ae/services/postnatal-massage/",
+          "name": "Postnatal Massage in Abu Dhabi | Sara Beauty",
+          "description": "Enjoy a gentle postnatal massage in Abu Dhabi at Sara Beauty. A relaxing treatment focused on comfort, relaxation and wellness after pregnancy.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/services/postnatal-massage/#service"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/services/postnatal-massage/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://sarabeauty.ae/services/postnatal-massage/#service",
+          "name": "Postnatal Massage",
+          "serviceType": "Postnatal Massage",
+          "description": "Professional postnatal massage in Abu Dhabi at Sara Beauty, providing a gentle and relaxing massage experience focused on comfort and overall wellness after pregnancy.",
+          "url": "https://sarabeauty.ae/services/postnatal-massage/",
+          "provider": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          },
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "249",
+              "priceCurrency": "AED",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "Offer",
+              "price": "299",
+              "priceCurrency": "AED",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/services/postnatal-massage/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Services",
+              "item": "https://sarabeauty.ae/services/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Postnatal Massage",
+              "item": "https://sarabeauty.ae/services/postnatal-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://sarabeauty.ae/services/postnatal-massage/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is a Postnatal Massage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Postnatal Massage is a specialized therapy designed to support new mothers after childbirth. It uses gentle massage techniques to help reduce muscle tension, improve circulation, promote relaxation, and support postpartum recovery. At Sara Beauty, this treatment is available through our Massage Abu Dhabi service, allowing mothers to recover comfortably at Sara Beauty’s home spa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the benefits of a Postnatal Massage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Postnatal Massage offers several recovery and wellness benefits, including:\n\n- Helps relieve back, neck, and shoulder tension\n- Supports healthy blood circulation\n- Promotes relaxation and better sleep\n- Helps reduce postpartum stress\n- May help reduce muscle soreness and fatigue\n- Supports overall physical recovery after childbirth\n\nMany mothers also include it as part of their regular Sara beauty Spa Abu Dhabi wellness routine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When can I get a Postnatal Massage after giving birth?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The right time depends on your delivery and your healthcare provider’s advice. Many women begin Postnatal Massage after receiving medical clearance, especially following a C-section or if there were any delivery complications. Always consult your doctor before booking your first postpartum massage."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I book a Postnatal Massage at Sara Beauty’s home spa in Abu Dhabi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does a Postnatal Massage session last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most Postnatal Massage sessions are available in 60-minute and 90-minute options. Your therapist will tailor the session according to your recovery stage, comfort level, and wellness goals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Postnatal Massage be combined with other wellness treatments?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Many mothers combine Postnatal Massage with Post Lymphatic Massage to help manage swelling or Foot Reflexology to relieve tired feet and promote relaxation. Your therapist can recommend the most suitable treatment plan for your recovery."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Postnatal Massage safe after a C-section?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Postnatal Massage may be appropriate after a C-section once your doctor confirms that your incision has healed sufficiently. Your therapist will use gentle techniques and avoid sensitive areas until it is safe to do so."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "faqTitle": "Frequently Asked Questions For Postnatal Massage",
+    "extraIntro": [],
+    "links": {
+      "faqs.0": [
+        {
+          "start": 290,
+          "end": 307,
+          "href": "/services"
+        }
+      ],
+      "faqs.5": [
+        {
+          "start": 49,
+          "end": 71,
+          "href": "/services/post-lymphatic-massage"
+        },
+        {
+          "start": 99,
+          "end": 115,
+          "href": "/services/foot-reflexology"
+        }
+      ]
+    }
+  },
+  "/contact": {
+    "metaTitle": "Contact Sara Beauty | Massage & Spa in Abu Dhabi",
+    "metaDescription": "Contact Sara Beauty in Abu Dhabi to ask about massage and spa treatments, prices and appointments. Call, WhatsApp or email our team today.",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ContactPage",
+          "@id": "https://sarabeauty.ae/contact/#webpage",
+          "url": "https://sarabeauty.ae/contact/",
+          "name": "Contact Sara Beauty | Massage & Spa in Abu Dhabi",
+          "headline": "Contact Sara Beauty",
+          "description": "Contact Sara Beauty in Abu Dhabi to ask about massage and spa treatments, prices and appointments. Call, WhatsApp or email our team today.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/contact/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Contact Us",
+              "item": "https://sarabeauty.ae/contact/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        }
+      ]
+    }
+  },
+  "/blogs": {
+    "metaTitle": "Massage & Spa Blog | Wellness Tips | Sara Beauty",
+    "metaDescription": "Explore massage and spa tips, wellness guides and treatment insights from Sara Beauty in Abu Dhabi. Learn about massage benefits, treatments and wellness.",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/blogs/#webpage",
+          "url": "https://sarabeauty.ae/blogs/",
+          "name": "Massage & Spa Blog | Wellness Tips | Sara Beauty",
+          "headline": "Massage & Spa Blog",
+          "description": "Explore massage and spa tips, wellness guides and treatment insights from Sara Beauty in Abu Dhabi. Learn about massage benefits, treatments and wellness.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/blogs/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/blogs/#bloglist",
+          "name": "Sara Beauty Blog Articles",
+          "url": "https://sarabeauty.ae/blogs/",
+          "itemListOrder": "https://schema.org/ItemListOrderDescending",
+          "numberOfItems": 20
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/blogs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blogs",
+              "item": "https://sarabeauty.ae/blogs/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          }
+        }
+      ]
+    }
+  },
+  "/packages": {
+    "metaTitle": "Massage & Spa Packages in Abu Dhabi | Sara Beauty",
+    "metaDescription": "Explore massage and spa packages in Abu Dhabi at Sara Beauty. Choose 10-session packages for lymphatic, deep tissue, relaxing, sports, aromatherapy and more.",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://sarabeauty.ae/packages/#webpage",
+          "url": "https://sarabeauty.ae/packages/",
+          "name": "Massage & Spa Packages in Abu Dhabi | Sara Beauty",
+          "headline": "Massage & Spa Packages in Abu Dhabi",
+          "description": "Explore massage and spa packages in Abu Dhabi at Sara Beauty. Choose 10-session packages for lymphatic, deep tissue, relaxing, sports, aromatherapy and more.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/packages/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/packages/#packages",
+          "name": "Massage & Spa Packages in Abu Dhabi",
+          "description": "10-session massage and spa packages available at Sara Beauty in Abu Dhabi.",
+          "numberOfItems": 11,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Relaxing Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Deep Tissue Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Aromatherapy Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Maderotherapy Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Combination Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Sports Massage Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Thai Massage Without Oil Package"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Face Maderotherapy Package"
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "@id": "https://sarabeauty.ae/packages/#offercatalog",
+          "name": "Sara Beauty Massage & Spa Packages",
+          "url": "https://sarabeauty.ae/packages/",
+          "provider": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Abu Dhabi"
+          },
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "Massage & Spa Package of 10",
+              "price": "2299",
+              "priceCurrency": "AED",
+              "url": "https://sarabeauty.ae/packages/"
+            },
+            {
+              "@type": "Offer",
+              "name": "Massage & Spa Package of 10 - 90 Minute Sessions",
+              "price": "2799",
+              "priceCurrency": "AED",
+              "url": "https://sarabeauty.ae/packages/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/packages/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Packages",
+              "item": "https://sarabeauty.ae/packages/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          }
+        }
+      ]
+    }
+  }
+}

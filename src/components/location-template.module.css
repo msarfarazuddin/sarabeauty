@@ -1,0 +1,102 @@
+﻿.page { background: white; color: #395E4C; margin-top: -120px; }
+.page h1, .page h2, .treatmentText h3 { font-family: var(--font-display), serif; font-weight: 400; }
+.page h2 { font-size: clamp(34px, 3.4vw, 49px); line-height: 1.12; }
+.container { width: min(1180px, calc(100% - 48px)); margin-inline: auto; }
+.hero { position: relative; min-height: 710px; display: flex; align-items: flex-end; padding: 300px 24px 85px; text-align: center; }
+.heroVisual { position: absolute; inset: 0; }
+.heroImage { object-fit: cover; object-position: center top; }
+@media (min-width: 901px) { .heroImageRaised { transform: translateY(-80px); } }
+.heroFade { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 12%, rgba(255,255,255,.22) 30%, rgba(255,255,255,.94) 62%, white 88%); }
+.heroContent { position: relative; width: 100%; max-width: 1300px; margin-inline: auto; }
+.heroEyebrow { font-family: var(--font-display), serif; font-size: 24px; margin-bottom: 20px; }
+.hero h1 { font-size: clamp(38px, 4vw, 62px); line-height: 1.08; text-wrap: balance; }
+.intro { max-width: 840px; margin: 22px auto 28px; color: #395E4C; font-size: 16px; line-height: 1.8; }
+.intro { white-space: pre-line; }
+.intro a, .paragraphs a { text-decoration: underline; text-underline-offset: 3px; }
+.bookingSection:last-child { padding-bottom: 80px; }
+.outlineButton, .creamButton { display: inline-flex; justify-content: center; align-items: center; gap: 9px; min-height: 44px; padding: 10px 23px; border-radius: 99px; border: 1px solid #395E4C; font-size: 15px; font-weight: 600; }
+.outlineButton:hover { background: #395E4C; color: white; }
+.creamButton { background: #f3edcf; border-color: #f3edcf; color: #395E4C; }
+.creamButton:hover { background: white; }
+.page a:focus-visible { outline: 3px solid #b59c56; outline-offset: 5px; }
+.why { background: #395E4C; color: #faf6e5; padding: 90px 0 80px; }
+.whyIntro { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 70px; align-items: start; }
+.whyLead { margin-top: 30px; }
+.eyebrow { text-transform: uppercase; letter-spacing: .2em; font-size: 11px; font-weight: 600; margin-bottom: 18px; }
+.why .eyebrow, .difference .eyebrow, .bookingCard .eyebrow { color: #ded1a0; }
+.goldLine { display: block; width: 55px; height: 2px; background: #cfc18d; margin-top: 28px; }
+.paragraphs { display: grid; gap: 18px; color: #e1e7e1; font-size: 16px; line-height: 1.8; }
+.benefits { display: grid; grid-template-columns: repeat(3, 1fr); gap: 42px; margin-top: 55px; padding-top: 35px; border-top: 1px solid #ffffff26; }
+.benefits svg { color: #dfd1a1; margin-bottom: 20px; }
+.benefits h3, .differenceGrid h3 { font-size: 20px; margin-bottom: 10px; }
+.benefits p, .differenceGrid p { font-size: 15px; line-height: 1.7; color: #e1e7e1; }
+.treatments { padding: 90px 0; text-align: center; }
+.sectionHeading { max-width: 780px; margin: 0 auto 40px; text-align: center; }
+.sectionHeading > p:last-child { margin-top: 18px; font-size: 16px; line-height: 1.75; color: #395E4C; }
+.treatmentGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; margin-bottom: 35px; text-align: left; }
+.treatmentCard { overflow: hidden; border-radius: 16px; background: #f8f7ef; border: 1px solid #395E4C15; transition: box-shadow .2s; }
+.treatmentCard:hover { box-shadow: 0 12px 30px #395E4C18; }
+.treatmentImage { position: relative; aspect-ratio: 1.3; overflow: hidden; }
+.treatmentImage img { object-fit: cover; transition: transform .35s; }
+.treatmentCard:hover img { transform: scale(1.04); }
+.cardArrow { position: absolute; bottom: 16px; right: 16px; display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: #faf6e9; }
+.treatmentText { padding: 25px; }
+.treatmentText h3 { font-size: 30px; line-height: 1.1; }
+.treatmentText p { margin-top: 12px; font-size: 15px; line-height: 1.65; color: #395E4C; }
+.discover { display: inline-flex; align-items: center; gap: 7px; margin-top: 20px; font-size: 13px; font-weight: 600; }
+.difference { padding: 80px 0; background: #395E4C; color: #faf6e5; text-align: center; }
+.difference .sectionHeading > p:last-child { color: #e1e7e1; }
+.differenceGrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; margin-bottom: 34px; }
+.differenceGrid article { border: 1px solid #e3d8ab35; border-radius: 14px; padding: 30px 20px; background: #ffffff04; }
+.iconCircle { display: grid; place-items: center; width: 60px; height: 60px; margin: 0 auto 22px; border-radius: 50%; background: #f3edcf10; color: #e3d8ab; }
+.bookingSection { padding-top: 64px; background: #fff; }
+.bookingCard { display: grid; grid-template-columns: minmax(0, 1fr) 180px; align-items: center; gap: 36px; position: relative; overflow: hidden; border: 1px solid #395E4C1a; border-radius: 22px; background: #395E4C; color: #faf6e5; padding: 34px 40px; }
+.bookingCopy { min-width: 0; }
+.bookingCard .eyebrow { color: #ded1a0; margin-bottom: 14px; }
+.bookingCopy h2 { font-size: clamp(30px, 3vw, 42px); }
+.bookingCopy > p:not(.eyebrow) { max-width: none; margin: 16px 0 20px; font-size: 16px; line-height: 1.75; color: #e1e7e1; }
+.bookingCard .creamButton { background: #f3edcf; border-color: #f3edcf; color: #395E4C; min-height: 44px; padding: 8px 26px; font-weight: 500; letter-spacing: .055em; }
+.bookingCard .creamButton:hover { background: #fff; }
+.bookingIllustration { position: relative; width: 100%; aspect-ratio: 1499 / 1920; }
+.bookingIllustration img { object-fit: contain; }
+@media (min-width: 640px) { .page { margin-top: -128px; } }
+@media (min-width: 1024px) { .page { margin-top: -108px; } }
+@media (max-width: 900px) { .whyIntro { grid-template-columns: 1fr; gap: 30px; } .differenceGrid { grid-template-columns: repeat(2, 1fr); } .treatmentGrid { gap: 16px; } .treatmentText { padding: 20px; } .treatmentText h3 { font-size: 26px; } .hero { min-height: 660px; } }
+@media (max-width: 640px) { .container { width: calc(100% - 40px); } .hero { min-height: 650px; padding: 245px 20px 55px; } .heroImage { object-position: 48% top; } .heroEyebrow { font-size: 20px; } .intro { font-size: 15px; line-height: 1.7; } .why, .treatments, .difference { padding: 56px 0; } .benefits { grid-template-columns: 1fr; gap: 28px; margin-top: 32px; } .benefits article { padding-bottom: 24px; border-bottom: 1px solid #ffffff18; } .benefits article:last-child { border: 0; padding-bottom: 0; } .benefits svg { margin-bottom: 12px; } .treatmentGrid { grid-template-columns: 1fr; gap: 24px; } .treatmentImage { aspect-ratio: 1.5; } .treatmentText h3 { font-size: 30px; } .differenceGrid { gap: 12px; } .differenceGrid article { padding: 24px 14px; } .differenceGrid h3 { font-size: 18px; } .differenceGrid p { font-size: 14px; } .bookingSection { padding-top: 50px; } .bookingCard { padding: 32px 25px; } .bookingFlower { opacity: .12; } }
+@media (prefers-reduced-motion: reduce) { .treatmentImage img, .treatmentCard { transition: none; } }
+
+@media (max-width: 900px) {
+  .bookingCard { grid-template-columns: minmax(0, 1fr) 150px; gap: 24px; padding: 30px; }
+  .page { margin-top: -34px; }
+  .hero { display: block; min-height: 0; padding: clamp(200px, 32vw, 280px) 0 0; background: #fff; }
+  .heroVisual { position: absolute; inset: 0 0 auto; width: 100%; height: clamp(320px, 48vw, 430px); }
+  .heroImage { object-fit: cover; object-position: center top; }
+  .heroFade { display: block; background: linear-gradient(180deg, transparent 12%, rgba(255,255,255,.22) 30%, rgba(255,255,255,.94) 62%, white 88%); }
+  .heroContent { padding: 0 24px 48px; background: linear-gradient(to bottom, transparent, #fff 100px); }
+  .hero h1 { font-size: clamp(34px, 5.5vw, 48px); line-height: 1.15; }
+  .heroEyebrow { font-size: 21px; margin-bottom: 16px; }
+  .intro { margin: 20px auto 26px; background: #fff; }
+}
+@media (min-width: 640px) and (max-width: 900px) {
+  .page { margin-top: -42px; }
+}
+@media (max-width: 640px) {
+  .heroContent { padding: 0 20px 42px; }
+  .heroEyebrow { font-size: 19px; line-height: 1.4; }
+  .hero h1 { font-size: clamp(32px, 8.5vw, 42px); }
+  .page h2 { font-size: clamp(29px, 8vw, 36px); line-height: 1.18; overflow-wrap: break-word; }
+  .whyIntro { gap: 18px; }
+  .paragraphs { font-size: 15px; line-height: 1.8; }
+  .whyLead { margin-top: 24px; }
+  .bookingSection { padding-top: 40px; }
+  .bookingSection:last-child { padding-bottom: 40px; }
+  .bookingCard { grid-template-columns: minmax(0, 1fr); gap: 24px; padding: 26px 22px; }
+  .bookingIllustration { grid-row: 1; width: 160px; justify-self: center; }
+  .bookingCopy > p:not(.eyebrow) { font-size: 15px; line-height: 1.8; }
+  .bookingCopy .creamButton { width: 100%; }
+  .differenceGrid { gap: 14px; }
+}
+@media (max-width: 380px) {
+  .differenceGrid { grid-template-columns: minmax(0, 1fr); }
+  .container { width: calc(100% - 32px); }
+}

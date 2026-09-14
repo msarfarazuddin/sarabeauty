@@ -1,0 +1,3154 @@
+{
+  "saadiyat-island": {
+    "heroImage": "/assets/Saadiyat Island.webp",
+    "heroImageRaised": true,
+    "metaTitle": "Saadiyat Island home spa massage & Spa Services - Sara Beauty",
+    "metaDescription": "Sara Beauty’s Saadiyat Island home spa massage and spa services. Reduce swelling, boost circulation, and relax in the comfort of Sara Beauty’s home spa.",
+    "focusKeyword": "Saadiyat Island home spa massage & Spa Services",
+    "canonical": "https://sarabeauty.ae/locations/saadiyat-island/",
+    "eyebrow": "Relax & Rejuvenate on Saadiyat Island",
+    "title": "Best home spa massage Saadiyat Island Abu Dhabi",
+    "intro": "Looking for a peaceful home spa massage in Saadiyat Island?\n\nSara Beauty home spa massage offers a quiet and comfortable space where women can enjoy professional massage and wellness treatments in Saadiyat Island. From relaxation massages to therapeutic therapies, every session is tailored to your needs by experienced female therapists in a clean, private environment.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "Saadiyat Island home spa massage & Spa Services?",
+    "whyParagraphs": [
+      "Saadiyat Island is known for its peaceful surroundings and relaxed atmosphere, making it an ideal place to take time for yourself. At Sara Beauty home spa massage, we’ve created a private wellness space where women can enjoy professional massage and spa treatments in a calm, clean, and welcoming environment.",
+      "When you visit Sara Beauty Home Spa, you’ll enjoy:",
+      "A private home spa for women where you can relax away from busy commercial salons.",
+      "Experienced female therapists providing professional massage and wellness treatments with personalized care.",
+      "Premium natural massage oils selected to support relaxation and healthy skin.",
+      "Treatments tailored to your needs, whether you’re looking to ease muscle tension, reduce stress, or simply enjoy some quiet time.",
+      "Whether you’re planning a regular wellness routine or treating yourself to a relaxing break, our home spa in Saadiyat Island offers a comfortable setting where every visit is focused on your well-being."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "Our Signature Procedures",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists provide this gentle, healing treatment at Sara Beauty’s home spa for complete comfort."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Tone and sculpt your body with Brazilian Maderotherapy in Saadiyat Island. Our therapists use wooden tools to contour and relax—all in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Eliminate toxins and target water retention with Brazilian Lymphatic Slimming Massage in Saadiyat Island. Enjoy a professional spa experience at Sara Beauty’s home spa with Sara Beauty."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Relieve stress and muscle tension with Deep Tissue Massage in Saadiyat Island. Sara Beauty’s therapists provide therapeutic care at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Shape and tone with non-surgical Maderotherapy in Saadiyat Island. Experience body contouring and relaxation at Sara Beauty’s home spa with Sara Beauty’s expert therapists."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Unwind with a Relaxation Massage in Saadiyat Island. Let our skilled therapists create a calming spa experience at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Recover and enhance performance with Sports Massage in Saadiyat Island. Our therapists release muscle tension and boost flexibility in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Soothe your senses with Aromatherapy Massage in Saadiyat Island. Essential oils and expert touch provide balance and relaxation at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Rejuvenate and tone your skin with Face Maderotherapy in Saadiyat Island. Enjoy youthful radiance with Sara Beauty’s home spa service."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Get the best of both relaxation and therapy with Combination Massage in Saadiyat Island. A personalized spa experience, at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Restore balance with Foot Reflexology in Saadiyat Island. Our therapists stimulate pressure points to ease stress and improve wellness at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Energize and stretch with Thai Massage in Saadiyat Island. Enjoy improved flexibility and relaxation at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Ease pregnancy discomfort with Prenatal Massage in Saadiyat Island. Sara Beauty offers gentle, supportive care at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Melt away stress with Hot Stone Massage in Saadiyat Island. Warm stones and expert touch create deep relaxation at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Glow with our Full Body Scrub in Saadiyat Island. Exfoliate and refresh your skin with Sara Beauty’s home spa service."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Brighten and relax with Face Massage in Saadiyat Island. Our therapists improve circulation and restore a natural glow."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Recover and restore with Postnatal Massage in Saadiyat Island. Gentle techniques support healing and relaxation at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Detox and relieve muscle tension with Cupping Therapy in Saadiyat Island. Experience this ancient healing method at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Relax deeply with Himalayan Signature Massage in Saadiyat Island. Warm salt stones restore balance and melt tension at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Pamper yourself with Manicures and Pedicures in Saadiyat Island. Professional nail care and polish, all in the comfort of home."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Restore harmony with Ayurvedic Massage in Saadiyat Island. Herbal oils and ancient techniques provide balance and relaxation at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists provide this gentle, healing treatment at Sara Beauty’s home spa for complete comfort."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Tone and sculpt your body with Brazilian Maderotherapy in Saadiyat Island. Our therapists use wooden tools to contour and relax—all in the comfort of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "Why Sara Beauty?",
+    "differenceIntro": "At Sara Beauty Home Spa, we believe every woman deserves time to relax, recharge, and feel cared for. Our private home spa in Saadiyat Island offers a peaceful setting where experienced female therapists provide personalized massage and wellness treatments in a clean, comfortable, and welcoming environment.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Your Spa Experience in Saadiyat Island",
+    "bookingDescription": "Take time for yourself with a visit to Sara Beauty Home Spa in Saadiyat Island. Our private home spa offers a calm, welcoming space where women can enjoy professional massage and wellness treatments tailored to their individual needs. Simply choose your preferred treatment, book your appointment, and let our experienced female therapists help you relax, recharge, and feel your best.",
+    "faqTitle": "",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/saadiyat-island/#webpage",
+          "url": "https://sarabeauty.ae/locations/saadiyat-island/",
+          "name": "Saadiyat Island home spa massage & Spa Services - Sara Beauty",
+          "description": "Sara Beauty’s Saadiyat Island home spa massage and spa services. Reduce swelling, boost circulation, and relax in the comfort of Sara Beauty’s home spa.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/saadiyat-island/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/saadiyat-island/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/saadiyat-island/#services",
+          "name": "Massage & Spa Services in Saadiyat Island",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/saadiyat-island/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Saadiyat Island",
+              "item": "https://sarabeauty.ae/locations/saadiyat-island/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Saadiyat Island, Abu Dhabi"
+          }
+        }
+      ]
+    }
+  },
+  "al-reem-island": {
+    "heroImage": "/assets/Al Reem Island.webp",
+    "heroImageRaised": true,
+    "metaTitle": "Al Reem Island home spa massage & Spa Services - Sara Beauty",
+    "metaDescription": "Sara Beauty’s Al Reem Island home spa massage and spa services. Soothe swelling, improve circulation, and unwind in complete comfort at Sara Beauty’s home spa.",
+    "focusKeyword": "Al Reem Island home spa massage & Spa Services - Sara Beauty",
+    "canonical": "https://sarabeauty.ae/locations/al-reem-island/",
+    "eyebrow": "Your Wellness Destination on Al Reem Island",
+    "title": "Professional Home Spa Services in Al Reem Island",
+    "intro": "Sara Beauty Spa provides massage and spa treatments in Al Reem Island, Abu Dhabi. We offer relaxing, deep tissue, sports, aromatherapy and other massage treatments, along with selected body treatments. Whether you want to relax after a long day, work on tight muscles, or try a body treatment, you can check the available options and contact us to book.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "Massage & Spa Services in Al Reem Island?",
+    "whyParagraphs": [
+      "Finding time for a massage can be difficult with a busy schedule. Sara Beauty Spa offers a range of massage and spa treatments in Al Reem Island, so you can choose a service based on what you need. Whether you want to relax, work on muscle tension, or try a body treatment, you can check the available options and book your appointment directly.",
+      "With Sara Beauty’s home spa massage and spa services in Al Reem Island, you can enjoy:",
+      "Private Spa Experience – Relax in a comfortable spa setting with more privacy and personal attention during your treatment.",
+      "Experienced female therapists – Trained to provide different massage techniques and body treatments.",
+      "Quality oils and products – Suitable products are used according to the treatment you choose.",
+      "A choice of treatments – Select from relaxing massage, deep tissue massage, sports massage, aromatherapy, lymphatic, slimming, and other massage options.",
+      "Located in the peaceful surroundings of Al Reem Island, Sara Beauty Home Spa offers a private and professionally designed spa environment where women can relax, recharge, and enjoy personalized wellness treatments in complete comfort."
+    ],
+    "benefits": [
+      {
+        "title": "Private Spa Setting",
+        "description": "A quiet and comfortable space where you can enjoy your treatment without unnecessary distractions."
+      },
+      {
+        "title": "Treatment Choices",
+        "description": "Choose from relaxing, deep tissue, sports, aromatherapy, lymphatic, slimming and other massage treatments."
+      },
+      {
+        "title": "Personal Attention",
+        "description": "Our therapists focus on the treatment you choose and make sure you are comfortable throughout your appointment."
+      }
+    ],
+    "treatmentsTitle": "Our Signature Treatments",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Reem Island improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Al Reem Island helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Our Brazilian Maderotherapy in Al Reem Island uses wooden tools to tone, sculpt, and reshape the body while boosting circulation. With Sara Beauty’s home spa services, enjoy this holistic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Our Deep Tissue Massage in Al Reem Island targets deep muscle layers to relieve tension, reduce stress, and enhance overall well-being. With Sara Beauty’s home spa services, enjoy this therapeutic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Our Maderotherapy in Al Reem Island is a non-surgical, painless treatment using wooden tools to reduce fat, tone the body, and improve circulation. With Sara Beauty’s home spa services, enjoy this body-contouring therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Our Relaxation Massage in Al Reem Island melts away stress, calms the mind, and restores balance. With Sara Beauty’s home spa services, enjoy a soothing massage experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Our Sports Massage in Al Reem Island is ideal for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, enjoy this revitalizing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Our Aromatherapy Massage in Al Reem Island combines gentle techniques with essential oils to relax the body, calm the mind, and uplift your mood. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Our Face Maderotherapy in Al Reem Island is a natural, non-invasive treatment using wooden tools to lift, tone, and sculpt the face while reducing puffiness and boosting circulation. With Sara Beauty’s home spa services, enjoy this rejuvenating therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Our Combination Massage in Al Reem Island blends techniques like deep tissue, relaxation, and aromatherapy to release tension, reduce stress, and restore balance. With Sara Beauty’s home spa services, enjoy a personalized massage in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Our Foot Reflexology in Al Reem Island focuses on pressure points in the feet to improve circulation, relieve stress, and restore energy flow. With Sara Beauty’s home spa services, enjoy this healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Our Thai Massage in Al Reem Island combines stretching and pressure techniques to improve flexibility, release muscle tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Our Prenatal Massage in Al Reem Island is specially designed for expectant mothers to ease back pain, reduce swelling, and promote relaxation. With Sara Beauty’s home spa services, enjoy safe and soothing care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Our Hot Stone Massage in Al Reem Island uses warm stones to melt away tension, ease muscle stiffness, and promote deep relaxation. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Our Full Body Scrub in Al Reem Island gently exfoliates the skin, removes dead cells, and leaves your body soft, smooth, and radiant. With Sara Beauty’s home spa services, enjoy this refreshing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Our Face Massage in Al Reem Island relieves tension, improves circulation, and enhances your natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Our Postnatal Massage in Al Reem Island supports new mothers by easing muscle tension, reducing stress, and promoting recovery after childbirth. With Sara Beauty’s home spa services, enjoy this nurturing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Our Cupping Therapy in Al Reem Island stimulates circulation, relieves muscle tension, and helps release toxins from the body. With Sara Beauty’s home spa services, enjoy this ancient healing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Our Himalayan Signature Massage in Al Reem Island uses warm Himalayan salt stones to relax muscles, improve circulation, and restore balance deeply. With Sara Beauty’s home spa services, enjoy this luxurious therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Our Manicures and Pedicures in Al Reem Island keep your hands and feet looking clean, healthy, and well-groomed. With Sara Beauty’s home spa services, enjoy professional nail care and relaxation in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Our Ayurvedic Massage in Al Reem Island blends traditional techniques with herbal oils to balance the body, mind, and spirit. With Sara Beauty’s home spa services, enjoy this holistic wellness therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Reem Island improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Al Reem Island helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "What Makes Sara Beauty Different?",
+    "differenceIntro": "Sara Beauty Spa provides massage and spa treatments in Al Reem Island, Abu Dhabi, with a focus on comfortable appointments and straightforward massage services. You can choose from a range of massage and body treatments based on what you are looking for, and speak with the team before your appointment. From selecting the right treatment to arranging your booking, the process is kept simple and convenient.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Your Al Reem Spa Experience",
+    "bookingDescription": "Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Reem Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.",
+    "faqTitle": "Frequently Asked Questions About Our Al Reem Island Spa",
+    "faqs": [
+      {
+        "question": "Is Sara Beauty a women-only spa in Al Reem Island?",
+        "answer": "Yes. Sara Beauty spa serving clients in Al Reem Island, Abu Dhabi. Our experienced female therapists provide professional massage and wellness treatments in a private, comfortable, and relaxing environment designed exclusively for women."
+      },
+      {
+        "question": "What massage services does sara beauty offer in Al Reem Island?",
+        "answer": "We offer Brazilian Lymphatic Massage, Post Lymphatic Massage, Brazilian Maderotherapy, Maderotherapy, Deep Tissue Massage, Relaxing Massage, Sports Massage, Aromatherapy Massage, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Foot Reflexology, Face Massage, Face Maderotherapy, Dry Cupping Therapy, Combination Massage, Himalaya Signature Massage, and Full Body Scrub."
+      },
+      {
+        "question": "Which massage is best for stress and muscle tension?",
+        "answer": "If your goal is relaxation, a Relaxing Massage or Aromatherapy Massage is an excellent choice. For muscle stiffness, sports recovery, or long-term tension, Deep Tissue Massage or Sports Massage may be more suitable. Our therapists can recommend the most appropriate treatment based on your needs."
+      },
+      {
+        "question": "How much does a massage cost in Al Reem Island?",
+        "answer": "The price depends on the type of massage and the session duration. Sara Beauty offers several treatment options, and our massage therapist can help you choose the most suitable service based on your wellness goals and preferred session length."
+      },
+      {
+        "question": "Why do women in Al Reem Island choose Sara Beauty?",
+        "answer": "Women choose Sara Beauty because of our experienced female therapists, women-only environment, personalised treatments, and wide range of massage and wellness services. We focus on providing a comfortable and relaxing spa experience tailored to each client’s needs."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/al-reem-island/#webpage",
+          "url": "https://sarabeauty.ae/locations/al-reem-island/",
+          "name": "Al Reem Island home spa massage & Spa Services - Sara Beauty",
+          "description": "Sara Beauty’s Al Reem Island home spa massage and spa services. Soothe swelling, improve circulation, and unwind in complete comfort at Sara Beauty’s home spa.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/al-reem-island/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/al-reem-island/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/al-reem-island/#services",
+          "name": "Massage & Spa Services in Al Reem Island",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/al-reem-island/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Al Reem Island",
+              "item": "https://sarabeauty.ae/locations/al-reem-island/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Al Reem Island, Abu Dhabi"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://sarabeauty.ae/locations/al-reem-island/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is Sara Beauty a women-only spa in Al Reem Island?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Sara Beauty spa serving clients in Al Reem Island, Abu Dhabi. Our experienced female therapists provide professional massage and wellness treatments in a private, comfortable, and relaxing environment designed exclusively for women."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What massage services does sara beauty offer in Al Reem Island?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We offer Brazilian Lymphatic Massage, Post Lymphatic Massage, Brazilian Maderotherapy, Maderotherapy, Deep Tissue Massage, Relaxing Massage, Sports Massage, Aromatherapy Massage, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Foot Reflexology, Face Massage, Face Maderotherapy, Dry Cupping Therapy, Combination Massage, Himalaya Signature Massage, and Full Body Scrub."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which massage is best for stress and muscle tension?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your goal is relaxation, a Relaxing Massage or Aromatherapy Massage is an excellent choice. For muscle stiffness, sports recovery, or long-term tension, Deep Tissue Massage or Sports Massage may be more suitable. Our therapists can recommend the most appropriate treatment based on your needs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How much does a massage cost in Al Reem Island?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The price depends on the type of massage and the session duration. Sara Beauty offers several treatment options, and our massage therapist can help you choose the most suitable service based on your wellness goals and preferred session length."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why do women in Al Reem Island choose Sara Beauty?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Women choose Sara Beauty because of our experienced female therapists, women-only environment, personalised treatments, and wide range of massage and wellness services. We focus on providing a comfortable and relaxing spa experience tailored to each client’s needs."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "al-bateen": {
+    "heroImage": "/assets/Al Bateen.jpg",
+    "metaTitle": "home spa massage in Al Bateen Abu Dhabi | Sara Beauty Spa Services",
+    "metaDescription": "home spa massage in Al Bateen, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!",
+    "focusKeyword": "home spa massage in Al Bateen Abu Dhabi",
+    "canonical": "https://sarabeauty.ae/locations/al-bateen/",
+    "eyebrow": "home spa massage in Al Bateen Abu Dhabi – Luxury Spa at Sara Beauty’s home spa for Women",
+    "title": "Welcome to Premium Wellness in Al Bateen",
+    "intro": "Need a home spa massage in Al Bateen that fits your lifestyle?\n\nSara Beauty offers a complete spa experience at Sara Beauty’s home spa in Abu Dhabi, designed for women who want comfort, privacy, and real results.\n\nWhether you’re feeling stressed, dealing with body pain, or just need time to relax, our treatments help you reset, recharge, and feel your best at Sara Beauty’s home spa.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "home spa massage in Al Bateen?",
+    "whyParagraphs": [
+      "Sara Beauty’s Al Bateen home spa massage & Spa Services",
+      "Al Bateen is known for its upscale residences, scenic waterfront views, and luxurious lifestyle—it’s also the perfect place to indulge in premium home spa massage and spa treatments.",
+      "With Sara Beauty’s home spa massage and spa services in Al Bateen, you can enjoy:",
+      "Luxury wellness at Sara Beauty’s home spa – you can book a private appointment at Sara Beauty’s home spa.",
+      "Professional female therapists – Skilled in a wide range of techniques, from relaxing massages to therapeutic treatments.",
+      "Premium oils & products – Designed to calm your senses and nourish your body.",
+      "Customized sessions – Tailored to your lifestyle and wellness needs, whether it’s relaxation, pain relief, or rejuvenation.",
+      "Al Bateen’s tranquil ambiance combined with our expert care ensures a complete mind-body experience right in the privacy and comfort of Sara Beauty’s home spa."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "Home Spa Services in Al Bateen",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Bateen improves circulation, reduces swelling, and flushes out toxins. Enjoy deep healing and relaxation in the comfort of Sara Beauty’s home spa with our professional home spa services."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Experience the Brazilian Lymphatic Slimming Massage in Abu Dhabi, designed to reduce water retention and flush out toxins. With Al Bateen home spa massage and spa services, enjoy this premium treatment in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Brazilian Maderotherapy in Abu Dhabi blends ancient techniques with modern benefits to shape and tone the body. With Al Bateen home spa services, enjoy this holistic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Experience the best Deep Tissue Massage in Abu Dhabi, designed to relieve stress and boost well-being. With Al Bateen home spa services, our expert therapists provide a complete spa setup at Sara Beauty’s home spa, so you can relax, renew, and feel cared for in total comfort."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Maderotherapy in Abu Dhabi is a non-surgical, painless treatment that helps reduce fat and tone the body using wooden tools. With Al Bateen home spa services, Sara Beauty offers this body-contouring therapy at Sara Beauty’s home spa for a private and relaxing experience."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Our Relaxation Massage in Al Bateen is designed to ease stress, calm the mind, and restore balance to your body. With Sara Beauty’s home spa services, our expert therapists provide a soothing and professional massage experience at Sara Beauty’s home spa, allowing you to unwind in complete comfort and privacy."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Our Sports Massage in Al Bateen is perfect for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, our professional therapists provide this revitalizing treatment at Sara Beauty’s home spa, so you can perform and feel your best in total comfort and privacy."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Our Aromatherapy Massage in Al Bateen combines gentle techniques with essential oils to relax the body, calm the mind, and uplift your mood. With Sara Beauty’s home spa services, enjoy a soothing and therapeutic experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Our Face Maderotherapy in Al Bateen is a natural, non-invasive treatment using wooden tools to lift, tone, and sculpt the face while boosting circulation and reducing puffiness. With Sara Beauty’s home spa services, enjoy this rejuvenating facial therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Our Combination Massage in Al Bateen blends different techniques like deep tissue, relaxation, and aromatherapy to release tension, reduce stress, and restore balance. With Sara Beauty’s home spa services, enjoy a personalized massage experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Our Foot Reflexology in Al Bateen targets pressure points in the feet to improve circulation, relieve tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this healing and deeply relaxing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Our Thai Massage in Al Bateen combines stretching and pressure techniques to improve flexibility, release muscle tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Our Prenatal Massage in Al Bateen is specially designed for expectant mothers to relieve back pain, reduce swelling, and promote relaxation. With Sara Beauty’s home spa services, enjoy safe and soothing care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Our Hot Stone Massage in Al Bateen uses warm stones to melt away tension, ease muscle stiffness, and promote deep relaxation. With Sara Beauty’s home spa services, experience this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Our Full Body Scrub in Al Bateen gently exfoliates the skin to remove dead cells, improve circulation, and leave your body soft and radiant. With Sara Beauty’s home spa services, enjoy this refreshing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Our Face Massage in Al Bateen helps relieve tension, improve circulation, and promote a natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Our Face Massage in Al Bateen helps relieve tension, improve circulation, and promote a natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Our Cupping Therapy in Al Bateen stimulates blood flow, relieves muscle tension, and helps detoxify the body. With Sara Beauty’s home spa services, experience this traditional healing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Our Himalayan Signature Massage in Al Bateen uses warm Himalayan salt stones to restore balance, release tension, and nourish the body with natural minerals. With Sara Beauty’s home spa services, enjoy this unique and deeply relaxing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Our Manicure and Pedicure services in Al Bateen keep your hands and feet looking clean, healthy, and beautifully polished. With Sara Beauty’s home spa services, enjoy professional nail care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Our Ayurvedic Massage in Al Bateen uses traditional herbal oils and healing techniques to balance energy, improve circulation, and promote deep relaxation. With Sara Beauty’s home spa services, experience this ancient wellness therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Bateen improves circulation, reduces swelling, and flushes out toxins. Enjoy deep healing and relaxation in the comfort of Sara Beauty’s home spa with our professional home spa services."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Experience the Brazilian Lymphatic Slimming Massage in Abu Dhabi, designed to reduce water retention and flush out toxins. With Al Bateen home spa massage and spa services, enjoy this premium treatment in the comfort of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "Why Sara Beauty is Trusted in Abu Dhabi",
+    "differenceIntro": "At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Al Bateen home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Sara Beauty’s home spa Massage in Al Bateen Now",
+    "bookingDescription": "Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Bateen home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.",
+    "faqTitle": "Frequently Asked Questions About Our Al Bateen Spa",
+    "faqs": [
+      {
+        "question": "Is Sara Beauty a women's spa in Al Bateen, Abu Dhabi?",
+        "answer": "Yes. Sara Beauty is a women-only spa in Al Bateen, Abu Dhabi, offering professional wellness and massage treatments in relaxing environment. Our experienced female therapists provide massage and spa services."
+      },
+      {
+        "question": "What massage services do you offer in Al Bateen?",
+        "answer": "We offer a wide range of massage therapies for women, including Relaxing Massage, Deep Tissue Massage, Sports Massage, Aromatherapy Massage, Brazilian Lymphatic Massage, Maderotherapy, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Foot Reflexology, Face Massage, and Combination Massage. Our therapists can recommend the most suitable treatment based on your needs."
+      },
+      {
+        "question": "Can I combine a massage with a full body scrub or face treatment?",
+        "answer": "Yes. Many clients combine a relaxing or deep tissue massage with a Full Body Scrub, Face Massage, or Face Maderotherapy for a complete spa experience. Our therapist can help you choose treatments that complement each other during the same visit."
+      },
+      {
+        "question": "Which massage is best for stress and muscle pain?",
+        "answer": "For stress relief, Relaxing Massage and Aromatherapy Massage are popular choices. If you have muscle stiffness, sports recovery needs, or chronic tension, Deep Tissue Massage or Sports Massage may be more suitable. Our therapists will recommend the best option after understanding your concerns."
+      },
+      {
+        "question": "Do you offer lymphatic massage in Al Bateen?",
+        "answer": "Yes. Sara Beauty offers Brazilian Lymphatic Massage and Post Lymphatic Massage in Al Bateen. These treatments are designed to support circulation, reduce water retention, and promote relaxation. Your therapist will explain the treatment and recommend the most appropriate session for your goals."
+      },
+      {
+        "question": "Why do women in Abu Dhabi choose Sara Beauty in Al Bateen?",
+        "answer": "Clients choose Sara Beauty for its women-only environment, experienced female therapists, personalised treatments, and wide range of massage and wellness services. Our goal is to provide a relaxing and comfortable spa experience while tailoring each treatment to the individual needs of every client."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/al-bateen/#webpage",
+          "url": "https://sarabeauty.ae/locations/al-bateen/",
+          "name": "home spa massage in Al Bateen Abu Dhabi | Sara Beauty Spa Services",
+          "description": "home spa massage in Al Bateen, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/al-bateen/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/al-bateen/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/al-bateen/#services",
+          "name": "Massage & Spa Services in Al Bateen",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/al-bateen/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Al Bateen",
+              "item": "https://sarabeauty.ae/locations/al-bateen/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Al Bateen, Abu Dhabi"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://sarabeauty.ae/locations/al-bateen/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is Sara Beauty a women's spa in Al Bateen, Abu Dhabi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Sara Beauty is a women-only spa in Al Bateen, Abu Dhabi, offering professional wellness and massage treatments in relaxing environment. Our experienced female therapists provide massage and spa services."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What massage services do you offer in Al Bateen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We offer a wide range of massage therapies for women, including Relaxing Massage, Deep Tissue Massage, Sports Massage, Aromatherapy Massage, Brazilian Lymphatic Massage, Maderotherapy, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Foot Reflexology, Face Massage, and Combination Massage. Our therapists can recommend the most suitable treatment based on your needs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I combine a massage with a full body scrub or face treatment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Many clients combine a relaxing or deep tissue massage with a Full Body Scrub, Face Massage, or Face Maderotherapy for a complete spa experience. Our therapist can help you choose treatments that complement each other during the same visit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which massage is best for stress and muscle pain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For stress relief, Relaxing Massage and Aromatherapy Massage are popular choices. If you have muscle stiffness, sports recovery needs, or chronic tension, Deep Tissue Massage or Sports Massage may be more suitable. Our therapists will recommend the best option after understanding your concerns."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do you offer lymphatic massage in Al Bateen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Sara Beauty offers Brazilian Lymphatic Massage and Post Lymphatic Massage in Al Bateen. These treatments are designed to support circulation, reduce water retention, and promote relaxation. Your therapist will explain the treatment and recommend the most appropriate session for your goals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why do women in Abu Dhabi choose Sara Beauty in Al Bateen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Clients choose Sara Beauty for its women-only environment, experienced female therapists, personalised treatments, and wide range of massage and wellness services. Our goal is to provide a relaxing and comfortable spa experience while tailoring each treatment to the individual needs of every client."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "khalidiya": {
+    "heroImage": "/assets/Khalidiya.jpg",
+    "heroImageRaised": true,
+    "metaTitle": "Khalidiya home spa massage & Spa Services - Sara Beauty",
+    "metaDescription": "Sara Beauty’s Khalidiya home spa massage and spa services. Soothe swelling, stimulate circulation, and enjoy ultimate relaxation at Sara Beauty’s home spa.",
+    "focusKeyword": "Khalidiya home spa massage & Spa Services",
+    "canonical": "https://sarabeauty.ae/locations/khalidiya/",
+    "eyebrow": "Your Wellness Destination in Khalidiya",
+    "title": "Expert Home Spa Services in Khalidiya",
+    "intro": "What are the expert home spa massage services in Khalidiya?\n\nSara Beauty Home Spa offers professional home spa massage services in Khalidiya, Abu Dhabi, with certified female therapists providing relaxing, therapeutic, deep tissue, and wellness massages. Visit our private home spa to enjoy personalized treatments in a clean, comfortable, and peaceful environment designed to help you relax and feel refreshed.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "Khalidiya home spa massage & Spa Services?",
+    "whyParagraphs": [
+      "Khalidiya is one of Abu Dhabi’s most established neighbourhoods, where many women look for a quiet place to relax and recharge away from their daily routine. At Sara Beauty Home Spa, we’ve created a private home spa where you can enjoy professional massage and wellness treatments in a clean, comfortable, and welcoming environment.",
+      "When you visit Sara Beauty Home Spa, you can expect:",
+      "A private home spa for women where comfort, privacy, and relaxation come first.",
+      "Experienced female therapists trained in relaxing, therapeutic, and wellness massage techniques.",
+      "Premium natural massage oils selected to support healthy skin and a relaxing treatment experience.",
+      "Personalized massage sessions designed around your comfort, wellness goals, and individual preferences.",
+      "Whether you’re looking to ease muscle tension, unwind after a busy week, or simply take time for yourself, our home spa in Khalidiya offers a peaceful setting where you can relax with confidence and enjoy professional care at every visit."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "Explore Our Spa Services",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Khalidiya improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Khalidiya helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Our Brazilian Maderotherapy in Khalidiya uses wooden tools to tone, sculpt, and reshape the body while boosting circulation. With Sara Beauty’s home spa services, enjoy this holistic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Our Deep Tissue Massage in Khalidiya targets deep muscle layers to relieve tension, reduce stress, and improve overall well-being. With Sara Beauty’s home spa services, enjoy this therapeutic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Our Maderotherapy in Khalidiya is a non-surgical, painless treatment using wooden tools to reduce fat, tone the body, and improve circulation. With Sara Beauty’s home spa services, enjoy this body-contouring therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Our Relaxation Massage in Khalidiya melts away stress, calms the mind, and restores balance. With Sara Beauty’s home spa services, enjoy a soothing massage experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Our Sports Massage in Khalidiya is ideal for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, enjoy this revitalizing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Our Aromatherapy Massage in Khalidiya combines gentle techniques with essential oils to relax the body, calm the mind, and uplift your mood. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Our Face Maderotherapy in Khalidiya is a natural, non-invasive treatment using wooden tools to lift, tone, and sculpt the face while reducing puffiness and boosting circulation. With Sara Beauty’s home spa services, enjoy this rejuvenating therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Our Combination Massage in Khalidiya blends techniques like deep tissue, relaxation, and aromatherapy to release tension, reduce stress, and restore balance. With Sara Beauty’s home spa services, enjoy a personalized massage in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Our Foot Reflexology in Khalidiya targets pressure points in the feet to improve circulation, relieve stress, and restore energy flow. With Sara Beauty’s home spa services, enjoy this healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Our Thai Massage in Khalidiya combines stretching and pressure techniques to improve flexibility, release muscle tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Our Prenatal Massage in Khalidiya is specially designed for expectant mothers to ease back pain, reduce swelling, and promote relaxation. With Sara Beauty’s home spa services, enjoy safe and soothing care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Our Hot Stone Massage in Khalidiya uses warm stones to melt away tension, ease muscle stiffness, and promote deep relaxation. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Our Full Body Scrub in Khalidiya gently exfoliates the skin, removes dead cells, and leaves your body soft, smooth, and radiant. With Sara Beauty’s home spa services, enjoy this refreshing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Our Face Massage in Khalidiya relieves tension, improves circulation, and enhances your natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Our Postnatal Massage in Khalidiya supports new mothers by easing muscle tension, reducing stress, and promoting recovery after childbirth. With Sara Beauty’s home spa services, enjoy this nurturing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Our Cupping Therapy in Khalidiya stimulates circulation, relieves muscle tension, and helps release toxins from the body. With Sara Beauty’s home spa services, enjoy this traditional healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Our Himalayan Signature Massage in Khalidiya uses warm Himalayan salt stones to relax muscles, improve circulation, and restore balance deeply. With Sara Beauty’s home spa services, enjoy this luxurious therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Our Manicures and Pedicures in Khalidiya keep your hands and feet clean, healthy, and beautifully groomed. With Sara Beauty’s home spa services, enjoy professional nail care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Our Ayurvedic Massage in Khalidiya blends traditional techniques with herbal oils to balance the body, mind, and spirit. With Sara Beauty’s home spa services, enjoy this holistic wellness therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Khalidiya improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Khalidiya helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "The Sara Beauty Difference",
+    "differenceIntro": "At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Khalidiya home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Your Khalidiya Spa Experience",
+    "bookingDescription": "Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalidiya home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.",
+    "faqTitle": "",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/khalidiya/#webpage",
+          "url": "https://sarabeauty.ae/locations/khalidiya/",
+          "name": "Khalidiya home spa massage & Spa Services - Sara Beauty",
+          "description": "Sara Beauty’s Khalidiya home spa massage and spa services. Soothe swelling, stimulate circulation, and enjoy ultimate relaxation at Sara Beauty’s home spa.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/khalidiya/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/khalidiya/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/khalidiya/#services",
+          "name": "Massage & Spa Services in Khalidiya",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/khalidiya/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khalidiya",
+              "item": "https://sarabeauty.ae/locations/khalidiya/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Khalidiya, Abu Dhabi"
+          }
+        }
+      ]
+    }
+  },
+  "corniche-area": {
+    "heroImage": "/assets/Corniche Area.jpg",
+    "metaTitle": "Corniche Area home spa massage & Spa Services - Sara Beauty",
+    "metaDescription": "Sara Beauty’s Corniche Area home spa massage and spa services. Calm swelling, boost circulation, and indulge in complete home comfort.",
+    "focusKeyword": "Corniche Area home spa massage & Spa Services - Sara Beauty",
+    "canonical": "https://sarabeauty.ae/locations/corniche-area/",
+    "eyebrow": "Premium Wellness Awaits on Corniche Area",
+    "title": "Sara Beauty Home Spa – Corniche Area, Abu Dhabi",
+    "intro": "What are the best home spa services in Corniche Area, Abu Dhabi?\n\nSara Beauty Home Spa offers professional home spa services in Corniche Area, Abu Dhabi, including relaxing massage, deep tissue, aromatherapy, and wellness treatments. Our certified female therapists provide personalized care in a private, hygienic, and peaceful spa environment, helping you relieve stress, improve circulation, and restore overall well-being.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "home spa massage in Corniche Area?",
+    "whyParagraphs": [
+      "Life around the Corniche Area can be busy, and finding time to unwind isn’t always easy. At Sara Beauty Home Spa, we’ve created a welcoming home spa where women can take a break from their routine and enjoy professional massage and wellness treatments in a quiet, comfortable setting.",
+      "Here’s what you can expect when you visit us:",
+      "A private home spa for women where you can relax without the crowds of a commercial spa.",
+      "Experienced female therapists who understand different massage techniques and adapt every session to your comfort.",
+      "Natural massage oils and quality products chosen to support relaxation and healthy skin.",
+      "Treatments tailored to your needs, whether you’re looking to ease muscle tension, recover after a long week, or simply enjoy some time for yourself.",
+      "From the moment you arrive, our focus is on helping you feel comfortable, cared for, and refreshed. Every visit is designed to give you a peaceful wellness experience in a clean and professionally maintained home spa in the Corniche Area."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "Sara Beauty's Premium Spa Treatments",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in the Corniche Area improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in the Corniche Area helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Our Brazilian Maderotherapy in the Corniche Area uses wooden tools to tone, sculpt, and reshape the body while boosting circulation. With Sara Beauty’s home spa services, enjoy this holistic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Our Deep Tissue Massage in the Corniche Area targets deep muscle layers to relieve tension, reduce stress, and improve overall well-being. With Sara Beauty’s home spa services, enjoy this treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Our Maderotherapy in the Corniche Area is a non-surgical, painless treatment using wooden tools to reduce fat, tone the body, and improve circulation. With Sara Beauty’s home spa services, enjoy this body-contouring therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Our Relaxation Massage in the Corniche Area melts away stress, calms the mind, and restores balance. With Sara Beauty’s home spa services, enjoy a soothing massage experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Our Sports Massage in the Corniche Area is ideal for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, enjoy this revitalizing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Our Aromatherapy Massage in the Corniche Area combines gentle techniques with essential oils to relax the body, calm the mind, and uplift your mood. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Our Face Maderotherapy in the Corniche Area is a natural, non-invasive treatment using wooden tools to lift, tone, and sculpt the face while reducing puffiness and boosting circulation. With Sara Beauty’s home spa services, enjoy this rejuvenating therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Our Combination Massage in the Corniche Area blends techniques like deep tissue, relaxation, and aromatherapy to release tension, reduce stress, and restore balance. With Sara Beauty’s home spa services, enjoy a personalized massage in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Our Foot Reflexology in the Corniche Area targets pressure points in the feet to improve circulation, relieve stress, and restore energy flow. With Sara Beauty’s home spa services, enjoy this healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Our Thai Massage in the Corniche Area combines stretching and pressure techniques to improve flexibility, release muscle tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Our Prenatal Massage in the Corniche Area is specially designed for expectant mothers to ease back pain, reduce swelling, and promote relaxation. With Sara Beauty’s home spa services, enjoy safe and soothing care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Our Hot Stone Massage in the Corniche Area uses warm stones to melt away tension, ease muscle stiffness, and promote deep relaxation. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Our Full Body Scrub in the Corniche Area gently exfoliates the skin, removes dead cells, and leaves your body soft, smooth, and radiant. With Sara Beauty’s home spa services, enjoy this refreshing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Our Face Massage in the Corniche Area relieves tension, improves circulation, and enhances your natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Our Postnatal Massage in the Corniche Area supports new mothers by easing muscle tension, reducing stress, and promoting recovery after childbirth. With Sara Beauty’s home spa services, enjoy this nurturing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Our Cupping Therapy in the Corniche Area stimulates circulation, relieves muscle tension, and helps release toxins from the body. With Sara Beauty’s home spa services, enjoy this ancient healing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Our Himalayan Signature Massage in the Corniche Area uses warm Himalayan salt stones to deeply relax muscles, improve circulation, and restore balance. With Sara Beauty’s home spa services, enjoy this luxurious therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Our Manicures and Pedicures in the Corniche Area keep your hands and feet clean, healthy, and beautifully groomed. With Sara Beauty’s home spa services, enjoy professional nail care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Our Ayurvedic Massage in the Corniche Area blends traditional techniques with herbal oils to balance the body, mind, and spirit. With Sara Beauty’s home spa services, enjoy this holistic wellness therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in the Corniche Area improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in the Corniche Area helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "Why Women Trust Sara Beauty",
+    "differenceIntro": "At Sara Beauty, every woman deserves comfort, confidence, and care. We provide premium wellness treatments at Sara Beauty’s home spa through our Corniche Area home spa massage and spa services — whether you need relaxation, pain relief, or beauty care, our expert therapists deliver a luxurious and personalized experience at Sara Beauty’s home spa.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Your Corniche Area Spa Experience",
+    "bookingDescription": "Looking for a peaceful place to relax in the Corniche Area? Sara Beauty Home Spa welcomes you to a private home spa created exclusively for women. From the moment you arrive, our experienced female therapists focus on your comfort, offering personalized massage and wellness treatments in a clean, quiet, and professionally maintained environment where you can truly switch off and recharge.",
+    "faqTitle": "Frequently Asked Questions About Our Corniche Area Spa",
+    "faqs": [
+      {
+        "question": "Is Sara Beauty a women-only spa near the Corniche Area?",
+        "answer": "Yes. Sara Beauty is a women spa and massage serving clients near the Corniche Area in Abu Dhabi. Our experienced female therapists provide professional massage and wellness treatments in a private, relaxing, and comfortable environment designed exclusively for women."
+      },
+      {
+        "question": "What spa and massage services do you offer near the Corniche Area?",
+        "answer": "Sara Beauty offers Brazilian Lymphatic Massage, Post Lymphatic Massage, Brazilian Maderotherapy, Deep Tissue Massage, Relaxing Massage, Sports Massage, Aromatherapy Massage, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Dry Cupping Therapy, Foot Reflexology, Face Massage, Face Maderotherapy, Combination Massage, Full Body Scrub, Himalaya Signature Massage, and manicure & pedicure exfoliation treatments."
+      },
+      {
+        "question": "Which massage is best for relaxation after a busy day?",
+        "answer": "Relaxing Massage and Aromatherapy Massage are ideal for reducing stress and helping you unwind. If you have muscle stiffness or tension, Deep Tissue Massage or Sports Massage may be a better option. Our therapists can recommend the most suitable treatment based on your needs."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/corniche-area/#webpage",
+          "url": "https://sarabeauty.ae/locations/corniche-area/",
+          "name": "Corniche Area home spa massage & Spa Services - Sara Beauty",
+          "description": "Sara Beauty’s Corniche Area home spa massage and spa services. Calm swelling, boost circulation, and indulge in complete home comfort.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/corniche-area/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/corniche-area/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/corniche-area/#services",
+          "name": "Massage & Spa Services in Corniche Area",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/corniche-area/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Corniche Area",
+              "item": "https://sarabeauty.ae/locations/corniche-area/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Corniche Area, Abu Dhabi"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://sarabeauty.ae/locations/corniche-area/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is Sara Beauty a women-only spa near the Corniche Area?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Sara Beauty is a women spa and massage serving clients near the Corniche Area in Abu Dhabi. Our experienced female therapists provide professional massage and wellness treatments in a private, relaxing, and comfortable environment designed exclusively for women."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What spa and massage services do you offer near the Corniche Area?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sara Beauty offers Brazilian Lymphatic Massage, Post Lymphatic Massage, Brazilian Maderotherapy, Deep Tissue Massage, Relaxing Massage, Sports Massage, Aromatherapy Massage, Thai Massage (without oil), Prenatal Massage, Postnatal Massage, Hot Stone Massage, Ayurvedic Massage, Dry Cupping Therapy, Foot Reflexology, Face Massage, Face Maderotherapy, Combination Massage, Full Body Scrub, Himalaya Signature Massage, and manicure & pedicure exfoliation treatments."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which massage is best for relaxation after a busy day?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Relaxing Massage and Aromatherapy Massage are ideal for reducing stress and helping you unwind. If you have muscle stiffness or tension, Deep Tissue Massage or Sports Massage may be a better option. Our therapists can recommend the most suitable treatment based on your needs."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "khalifa-city": {
+    "heroImage": "/assets/Khalifa City.webp",
+    "metaTitle": "Khalifa city home spa massage & Spa Services - Sara Beauty",
+    "metaDescription": "Sara Beauty’s Khalifa city home spa massage and spa services. Relieve swelling, improve circulation, and unwind in the comfort of Sara Beauty’s home spa.",
+    "focusKeyword": "Khalifa city home spa massage & Spa Services - Sara Beauty",
+    "canonical": "https://sarabeauty.ae/locations/khalifa-city/",
+    "eyebrow": "Massage & Spa Services in Khalifa City, Abu Dhabi",
+    "title": "Welcome to Wellness in Khalifa City",
+    "intro": "Sara Beauty offers massage and spa services for women in Khalifa City, Abu Dhabi. Our female therapists provide relaxing, deep tissue massage, lymphatic, slimming, and other wellness treatments in a private setting. Whether you want to relax after a busy day, ease muscle tension, or enjoy a professional spa treatment, you can book a service that suits your needs.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "Sara Beauty's Spa & Massage in Khalifa City??",
+    "whyParagraphs": [
+      "Choosing a spa is not only about the treatment itself. It is also about the therapist, the setting, and how comfortable you feel during the session. At Sara Beauty, women can choose from different massage and wellness treatments and receive care from professional female therapists. We focus on privacy, cleanliness, and a comfortable experience from booking through to the end of the treatment.",
+      "With Sara Beauty’s spa and massage  services in Khalifa City, you can enjoy:",
+      "Female Therapists – Experienced female therapists trained in a variety of massage and wellness treatments.",
+      "Professional female therapists – Skilled in a wide range of techniques, from relaxing massages to therapeutic treatments.",
+      "Privacy & Comfort – A private and comfortable setting where you can relax during your treatment.",
+      "Different Treatment Options – Massage and wellness options for relaxation, muscle tension, body care, and other needs.",
+      "Professional Service – Clear booking, professional treatment, and attention to your comfort throughout the session.",
+      "Khalifa City’s calm atmosphere combined with our expert care ensures a complete mind-body experience right in the privacy and comfort of Sara Beauty’s home spa."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "Our Signature Procedures",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Experience Post Lymphatic Drainage Massage in Khalifa City with Sara Beauty. This gentle treatment improves circulation, reduces swelling, and helps release toxins. Enjoy the healing benefits of this therapy in the comfort of Sara Beauty’s home spa through our professional home spa services."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists provide the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Enjoy Brazilian Lymphatic Slimming Massage in Khalifa City with Sara Beauty. This treatment targets water retention, improves circulation, and helps flush out toxins. Experience professional spa care in the comfort of Sara Beauty’s home spa with our expert therapists."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Relieve stress and muscle tension with our Deep Tissue Massage in Khalifa City. Sara Beauty’s expert therapists provide this therapeutic treatment at Sara Beauty’s home spa, helping you feel relaxed, renewed, and fully cared for in a private spa-like setting."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Experience Maderotherapy in Khalifa City with Sara Beauty. This non-surgical wooden therapy helps reduce fat, tone the body, and promote relaxation. Enjoy the benefits of body contouring in the comfort of Sara Beauty’s home spa with our professional spa services."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Unwind with a soothing Relaxation Massage in Khalifa City by Sara Beauty. Our skilled therapists create a calming spa experience at Sara Beauty’s home spa, helping you release stress and restore inner balance in complete comfort."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Recover faster and boost performance with our Sports Massage in Khalifa City. Sara Beauty’s expert therapists provide this targeted treatment at Sara Beauty’s home spa, easing muscle tension and enhancing flexibility in a private spa setting."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Relax your body and mind with our Aromatherapy Massage in Khalifa City. Using essential oils, Sara Beauty’s therapists create a calming home spa experience that soothes stress, uplifts mood, and restores balance"
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Rejuvenate your skin with Face Maderotherapy in Khalifa City. This wooden therapy lifts, tones, and improves circulation, giving you a youthful glow. Enjoy a professional spa experience at Sara Beauty’s home spa with Sara Beauty’s expert therapists."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Experience the best of both worlds with our Combination Massage in Khalifa City. Blending relaxing and therapeutic techniques, Sara Beauty’s therapists provide a customized spa experience at Sara Beauty’s home spa for complete body and mind relief."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Restore balance and relaxation with Foot Reflexology in Khalifa City. Sara Beauty’s expert therapists stimulate pressure points in your feet to improve circulation, reduce stress, and promote overall well-being—all in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Revitalize your body with Thai Massage in Khalifa City. Combining stretching and pressure techniques, Sara Beauty’s therapists improve flexibility, release tension, and restore energy—all in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Experience gentle care with our Prenatal Massage in Khalifa City. Designed to ease pregnancy discomfort, reduce swelling, and promote relaxation, Sara Beauty offers this nurturing treatment at Sara Beauty’s home spa for complete comfort and support."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Melt away stress with our Hot Stone Massage in Khalifa City. Using warm stones to ease tension and improve circulation, Sara Beauty’s therapists provide a deeply relaxing spa experience to the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Refresh your skin with our Full Body Scrub in Khalifa City. Sara Beauty’s therapists gently exfoliate to remove dead skin, leaving you smooth, soft, and glowing—all in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Rejuvenate your skin with our Face Massage in Khalifa City. Sara Beauty’s therapists use gentle techniques to improve circulation, reduce tension, and give your skin a natural, healthy glow—right at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Recover and relax with our Postnatal Massage in Khalifa City. Designed to relieve tension, improve circulation, and support healing, Sara Beauty’s therapists provide this restorative treatment at Sara Beauty’s home spa for complete comfort."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Revitalize your body with Cupping Therapy in Khalifa City. This ancient technique improves circulation, releases toxins, and eases muscle tension. Sara Beauty’s therapists provide the full spa experience at Sara Beauty’s home spa for maximum comfort."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Experience deep relaxation with our Himalayan Signature Massage in Khalifa City. Using warm Himalayan salt stones, Sara Beauty’s therapists melt away tension, restore balance, and provide a luxurious spa experience at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Pamper yourself with Manicures and Pedicures in Khalifa City. Sara Beauty’s therapists provide professional nail care at Sara Beauty’s home spa, leaving your hands and feet clean, polished, and perfectly refreshed."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Restore harmony with our Ayurvedic Massage in Khalifa City. Using ancient techniques and herbal oils, Sara Beauty’s therapists balance body and mind while providing a soothing spa experience at Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Experience Post Lymphatic Drainage Massage in Khalifa City with Sara Beauty. This gentle treatment improves circulation, reduces swelling, and helps release toxins. Enjoy the healing benefits of this therapy in the comfort of Sara Beauty’s home spa through our professional home spa services."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists provide the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience."
+      }
+    ],
+    "differenceTitle": "Find the Right Massage for Your Needs",
+    "differenceIntro": "Different massages are used for different reasons. If you want to relax and take a break from a busy day, a relaxing massage or aromatherapy massage may be a good choice. For tight or sore muscles, you may prefer a deep tissue massage or sports massage. Lymphatic massage, slimming treatments and Maderotherapy are also available for those looking for body-focused treatments.",
+    "differences": [
+      {
+        "title": "For Relaxation",
+        "description": "Relaxation Massage · Aromatherapy Massage · Hot Stone Massage For those looking for a calming massage after a busy day."
+      },
+      {
+        "title": "For Muscle Tension",
+        "description": "Deep Tissue Massage · Sports Massage · Thai Massage Options for people looking for a firmer or more targeted massage."
+      },
+      {
+        "title": "For Lymphatic & Body Care",
+        "description": "Lymphatic Massage · Brazilian Lymphatic Slimming · Maderotherapy Treatments focused on lymphatic and body-care needs."
+      },
+      {
+        "title": "For Pregnancy & Post-Pregnancy",
+        "description": "Prenatal Massage · Postnatal Massage Massage options specifically available for pregnancy and after childbirth."
+      }
+    ],
+    "bookingTitle": "Book Your Khalifa city Spa Experience",
+    "bookingDescription": "Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalifa City home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.",
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "question": "What massage treatments are available in Khalifa City?",
+        "answer": "Sara Beauty Spa offers a range of massage treatments, including relaxing, deep tissue, sports, aromatherapy, Thai, hot stone, lymphatic and other massage options. You can also choose from body treatments such as Maderotherapy and Brazilian slimming massage."
+      },
+      {
+        "question": "How do I choose the right massage?",
+        "answer": "It depends on what you are looking for. Relaxing or aromatherapy massage can be suitable when you want to unwind, while deep tissue or sports massage may be preferable for tight or tired muscles. You can contact us if you are unsure which treatment to book."
+      },
+      {
+        "question": "How long does a massage session take?",
+        "answer": "Session times depend on the treatment you choose. Contact Sara Beauty for the available durations and booking options for your preferred massage."
+      },
+      {
+        "question": "Can I book a massage in Khalifa City?",
+        "answer": "Yes. You can contact Sara Beauty on WhatsApp to check availability and book your preferred massage or spa treatment in Khalifa City."
+      },
+      {
+        "question": "Do you offer treatments other than massage?",
+        "answer": "Yes. Our treatment menu also includes Maderotherapy, Brazilian lymphatic slimming, body scrub, cupping therapy, manicures and pedicures, and other spa treatments."
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/khalifa-city/#webpage",
+          "url": "https://sarabeauty.ae/locations/khalifa-city/",
+          "name": "Khalifa city home spa massage & Spa Services - Sara Beauty",
+          "description": "Sara Beauty’s Khalifa city home spa massage and spa services. Relieve swelling, improve circulation, and unwind in the comfort of Sara Beauty’s home spa.",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/khalifa-city/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/khalifa-city/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/khalifa-city/#services",
+          "name": "Massage & Spa Services in Khalifa City",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/khalifa-city/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khalifa City",
+              "item": "https://sarabeauty.ae/locations/khalifa-city/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Khalifa City, Abu Dhabi"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://sarabeauty.ae/locations/khalifa-city/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What massage treatments are available in Khalifa City?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sara Beauty Spa offers a range of massage treatments, including relaxing, deep tissue, sports, aromatherapy, Thai, hot stone, lymphatic and other massage options. You can also choose from body treatments such as Maderotherapy and Brazilian slimming massage."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I choose the right massage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on what you are looking for. Relaxing or aromatherapy massage can be suitable when you want to unwind, while deep tissue or sports massage may be preferable for tight or tired muscles. You can contact us if you are unsure which treatment to book."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does a massage session take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Session times depend on the treatment you choose. Contact Sara Beauty for the available durations and booking options for your preferred massage."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I book a massage in Khalifa City?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. You can contact Sara Beauty on WhatsApp to check availability and book your preferred massage or spa treatment in Khalifa City."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do you offer treatments other than massage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Our treatment menu also includes Maderotherapy, Brazilian lymphatic slimming, body scrub, cupping therapy, manicures and pedicures, and other spa treatments."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "al-maryah-island": {
+    "heroImage": "/assets/Al Maryah.jpg",
+    "metaTitle": "home spa massage in Al Maryah Island Abu Dhabi | Sara Beauty",
+    "metaDescription": "home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!",
+    "focusKeyword": "home spa massage in Al Maryah Island Abu Dhabi",
+    "canonical": "https://sarabeauty.ae/locations/al-maryah-island/",
+    "eyebrow": "home spa massage in Al Maryah Island Abu Dhabi – Luxury Spa at Sara Beauty’s home spa",
+    "title": "Welcome to Premium Wellness in Al Maryah Island",
+    "intro": "Looking for a relaxing home spa massage in Al Maryah Island in comfert home spa?\n\nSara Beauty brings a complete home spa experience in Abu Dhabi, designed especially for women who value comfort, privacy, and high-quality care.\n\nWhether you’re dealing with stress, body pain, or simply need time to unwind, our expert therapists deliver personalized massage and spa treatments that restore balance to your body and mind.",
+    "whyEyebrow": "Why Choose",
+    "whyTitle": "home spa massage in Al Maryah Island?",
+    "whyParagraphs": [
+      "Al Maryah Island is not only known for its vibrant lifestyle, modern architecture, and premium living—it’s also the perfect setting to indulge in luxury home spa massage and spa treatments.",
+      "With Sara Beauty’s home spa massage and spa services in Al Maryah Island, you can enjoy:",
+      "Luxury wellness at Sara Beauty’s home spa – you can book a private appointment at Sara Beauty’s home spa.",
+      "Professional female therapists – Skilled in a wide range of techniques, from relaxing massages to therapeutic treatments.",
+      "Premium oils & products – Designed to calm your senses and nourish your body.",
+      "Customized sessions – Tailored to your lifestyle and wellness needs, whether it’s relaxation, pain relief, or rejuvenation.",
+      "The modern charm of Al Maryah Island, combined with our expert care, ensures a complete mind-body experience right in the privacy and comfort at Sara Beauty’s home spa."
+    ],
+    "benefits": [
+      {
+        "title": "Calm Home",
+        "description": "Enjoy the peace of a private spa experience at our private home spa."
+      },
+      {
+        "title": "Spa Quality",
+        "description": "Our expert therapists provide professional care at Sara Beauty’s home spa."
+      },
+      {
+        "title": "Island Relaxation",
+        "description": "Feel refreshed and renewed in harmony with the island’s serene surroundings."
+      }
+    ],
+    "treatmentsTitle": "What We Offer – Home Spa Services in Al Maryah Island",
+    "treatmentsIntro": "",
+    "treatments": [
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Maryah Island improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Al Maryah Island helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Maderotherapy",
+        "slug": "brazilian-maderotherapy",
+        "image": "/assets/Brazilian.jpg",
+        "description": "Our Brazilian Maderotherapy in Al Maryah Island blends ancient wooden techniques with modern benefits to tone, sculpt, and reshape the body. With Sara Beauty’s home spa services, enjoy this holistic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "slug": "deep-tissue-massage",
+        "image": "/assets/Deep Tissue Massage.webp",
+        "description": "Our Deep Tissue Massage in Al Maryah Island is designed to relieve muscle tension, reduce stress, and improve overall well-being. With Sara Beauty’s home spa services, enjoy this therapeutic treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Maderotherapy",
+        "slug": "maderotherapy",
+        "image": "/assets/Maderotherapy.jpg",
+        "description": "Our Maderotherapy in Al Maryah Island is a non-surgical, painless treatment using wooden tools to reduce fat, tone the body, and improve circulation. With Sara Beauty’s home spa services, enjoy this body-contouring therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Relaxation Massage",
+        "slug": "relaxing-massage",
+        "image": "/assets/rm.jpg",
+        "description": "Our Relaxation Massage in Al Maryah Island melts away stress, calms the mind, and restores balance. With Sara Beauty’s home spa services, enjoy a soothing massage experience in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Sports Massage",
+        "slug": "sports-massage",
+        "image": "/assets/Sports Massage.jpg",
+        "description": "Our Sports Massage in Al Maryah Island is ideal for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, enjoy this revitalizing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Aromatherapy Massage",
+        "slug": "aromatherapy-massage",
+        "image": "/assets/Aromatherapy.jpg",
+        "description": "Our Aromatherapy Massage in Al Maryah Island combines gentle massage techniques with essential oils to relax the body, calm the mind, and uplift your mood. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Maderotherapy",
+        "slug": "face-maderotherapy",
+        "image": "/assets/fm.jpg",
+        "description": "Our Face Maderotherapy in Al Maryah Island is a natural, non-invasive treatment using wooden tools to lift, tone, and sculpt the face while reducing puffiness and boosting circulation. With Sara Beauty’s home spa services, enjoy this rejuvenating therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Combination Massage",
+        "slug": "combination-massage",
+        "image": "/assets/Combination Massage.jpg",
+        "description": "Our Combination Massage in Al Maryah Island blends techniques like deep tissue, relaxation, and aromatherapy to release tension, reduce stress, and restore balance. With Sara Beauty’s home spa services, enjoy a personalized massage in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Foot Reflexology",
+        "slug": "foot-reflexology",
+        "image": "/assets/fm-1.jpg",
+        "description": "Our Foot Reflexology in Al Maryah Island focuses on pressure points in the feet to improve circulation, relieve stress, and restore energy flow. With Sara Beauty’s home spa services, enjoy this healing and relaxing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Thai Massage",
+        "slug": "thai-massage-without-oil",
+        "image": "/assets/thai.jpg",
+        "description": "Our Thai Massage in Al Maryah Island combines stretching and pressure techniques to improve flexibility, release muscle tension, and restore energy flow. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Prenatal Massage",
+        "slug": "prenatal-massage",
+        "image": "/assets/postnail.jpg",
+        "description": "Our Prenatal Massage in Al Maryah Island is specially designed for expectant mothers to ease back pain, reduce swelling, and promote relaxation. With Sara Beauty’s home spa services, enjoy safe and soothing care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Hot Stone Massage",
+        "slug": "hot-stone",
+        "image": "/assets/stone.jpg",
+        "description": "Our Hot Stone Massage in Al Maryah Island uses warm stones to melt away tension, ease muscle stiffness, and promote deep relaxation. With Sara Beauty’s home spa services, enjoy this soothing therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Full Body Scrub",
+        "slug": "full-body-scrub",
+        "image": "/assets/Full-Body-Scrub.webp",
+        "description": "Our Full Body Scrub in Al Maryah Island gently exfoliates the skin, removes dead cells, and leaves your body soft, smooth, and radiant. With Sara Beauty’s home spa services, enjoy this refreshing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Face Massage",
+        "slug": "face-massage",
+        "image": "/assets/face.jpg",
+        "description": "Our Face Massage in Al Maryah Island relieves tension, improves circulation, and enhances your natural glow. With Sara Beauty’s home spa services, enjoy this relaxing and rejuvenating treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Postnatal Massage",
+        "slug": "postnatal-massage",
+        "image": "/assets/Postnatal.jpg",
+        "description": "Our Postnatal Massage in Al Maryah Island is designed to support new mothers by easing muscle tension, reducing stress, and promoting recovery after childbirth. With Sara Beauty’s home spa services, enjoy this nurturing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Cupping Therapy",
+        "slug": "dry-cupping-therapy",
+        "image": "/assets/cub.jpg",
+        "description": "Our Cupping Therapy in Al Maryah Island boosts circulation, relieves muscle tension, and helps detoxify the body. With Sara Beauty’s home spa services, enjoy this traditional healing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Himalayan Signature Massage",
+        "slug": "himalaya-signature-massage",
+        "image": "/assets/Himalayan.jpg",
+        "description": "Our Himalayan Signature Massage in Al Maryah Island uses warm Himalayan salt stones to ease tension, restore balance, and deeply relax the body. With Sara Beauty’s home spa services, enjoy this unique therapy in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Manicures and Pedicures",
+        "slug": "manicures-and-pedicures-exfoliate",
+        "image": "/assets/mdpd.jpg",
+        "description": "Our Manicure and Pedicure services in Al Maryah Island keep your hands and feet clean, healthy, and beautifully polished. With Sara Beauty’s home spa services, enjoy professional nail care in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Ayurvedic Massage",
+        "slug": "ayurvedic-massage",
+        "image": "/assets/Ayurvedic-massage.jpg",
+        "description": "Our Ayurvedic Massage in Al Maryah Island uses traditional herbal oils and techniques to balance energy, improve circulation, and promote deep relaxation. With Sara Beauty’s home spa services, enjoy this ancient healing therapy in the comfort of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Post Lymphatic Drainage",
+        "slug": "post-lymphatic-massage",
+        "image": "/assets/hero.webp",
+        "description": "Our Post Lymphatic Drainage Massage in Al Maryah Island improves circulation, reduces swelling, and helps flush out toxins. With Sara Beauty’s home spa services, enjoy this healing and relaxing treatment in the comfort and privacy of Sara Beauty’s home spa."
+      },
+      {
+        "name": "Brazilian Lymphatic Slimming",
+        "slug": "brazilian-lymphatic-slimming-massage",
+        "image": "/assets/Brazilian Lymphatic.webp",
+        "description": "Our Brazilian Lymphatic Slimming Massage in Al Maryah Island helps reduce water retention, eliminate toxins, and sculpt the body. With Sara Beauty’s home spa services, enjoy this premium treatment in the comfort and privacy of Sara Beauty’s home spa."
+      }
+    ],
+    "differenceTitle": "Why Sara Beauty is Trusted in Abu Dhabi",
+    "differenceIntro": "At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Al Maryah Island home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort home spa.",
+    "differences": [
+      {
+        "title": "Home-Spa Exclusivity",
+        "description": "Enjoy complete privacy and comfort at Sara Beauty’s home spa"
+      },
+      {
+        "title": "Personalized Treatments",
+        "description": "Each session is tailored to your needs"
+      },
+      {
+        "title": "Expert Therapists",
+        "description": "Professional, safe, and experienced staff"
+      },
+      {
+        "title": "Convenience",
+        "description": "Easy booking and flexible scheduling"
+      }
+    ],
+    "bookingTitle": "Book Sara Beauty’s home spa Massage in Al Maryah Island Today",
+    "bookingDescription": "Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Maryah Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.",
+    "faqTitle": "",
+    "faqs": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://sarabeauty.ae/locations/al-maryah-island/#webpage",
+          "url": "https://sarabeauty.ae/locations/al-maryah-island/",
+          "name": "home spa massage in Al Maryah Island Abu Dhabi | Sara Beauty",
+          "description": "home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!",
+          "isPartOf": {
+            "@id": "https://sarabeauty.ae/#website"
+          },
+          "about": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "mainEntity": {
+            "@id": "https://sarabeauty.ae/locations/al-maryah-island/#services"
+          },
+          "breadcrumb": {
+            "@id": "https://sarabeauty.ae/locations/al-maryah-island/#breadcrumb"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://sarabeauty.ae/locations/al-maryah-island/#services",
+          "name": "Massage & Spa Services in Al Maryah Island",
+          "numberOfItems": 21,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Post Lymphatic Drainage",
+              "url": "https://sarabeauty.ae/services/post-lymphatic-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Brazilian Lymphatic Slimming",
+              "url": "https://sarabeauty.ae/services/brazilian-lymphatic-slimming-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brazilian Maderotherapy",
+              "url": "https://sarabeauty.ae/services/brazilian-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Deep Tissue Massage",
+              "url": "https://sarabeauty.ae/services/deep-tissue-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Maderotherapy",
+              "url": "https://sarabeauty.ae/services/maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Relaxing Massage",
+              "url": "https://sarabeauty.ae/services/relaxing-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sports Massage",
+              "url": "https://sarabeauty.ae/services/sports-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Aromatherapy Massage",
+              "url": "https://sarabeauty.ae/services/aromatherapy-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Face Maderotherapy",
+              "url": "https://sarabeauty.ae/services/face-maderotherapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Combination Massage",
+              "url": "https://sarabeauty.ae/services/combination-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Foot Reflexology",
+              "url": "https://sarabeauty.ae/services/foot-reflexology/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Thai Massage",
+              "url": "https://sarabeauty.ae/services/thai-massage-without-oil/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Prenatal Massage",
+              "url": "https://sarabeauty.ae/services/prenatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Hot Stone Massage",
+              "url": "https://sarabeauty.ae/services/hot-stone/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Full Body Scrub",
+              "url": "https://sarabeauty.ae/services/full-body-scrub/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Face Massage",
+              "url": "https://sarabeauty.ae/services/face-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Postnatal Massage",
+              "url": "https://sarabeauty.ae/services/postnatal-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Cupping Therapy",
+              "url": "https://sarabeauty.ae/services/dry-cupping-therapy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Himalayan Signature Massage",
+              "url": "https://sarabeauty.ae/services/himalaya-signature-massage/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Manicures and Pedicures",
+              "url": "https://sarabeauty.ae/services/manicures-and-pedicures-exfoliate/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Ayurvedic Massage",
+              "url": "https://sarabeauty.ae/services/ayurvedic-massage/"
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://sarabeauty.ae/locations/al-maryah-island/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sarabeauty.ae/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Locations",
+              "item": "https://sarabeauty.ae/locations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Al Maryah Island",
+              "item": "https://sarabeauty.ae/locations/al-maryah-island/"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://sarabeauty.ae/#website",
+          "url": "https://sarabeauty.ae/",
+          "name": "Sara Beauty",
+          "publisher": {
+            "@id": "https://sarabeauty.ae/#organization"
+          },
+          "inLanguage": "en-AE"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://sarabeauty.ae/#organization",
+          "name": "Sara Beauty",
+          "url": "https://sarabeauty.ae/",
+          "telephone": "+971556230899",
+          "email": "info@sarabeauty.ae",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Khalid bin Waleed Street",
+            "postOfficeBoxNumber": "36493",
+            "addressLocality": "Abu Dhabi",
+            "addressCountry": "AE"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Al Maryah Island, Abu Dhabi"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1307 @@
+[
+  {
+    "file": "src\\data\\location-content.ts",
+    "before": "\"Whether you want to unwind after a long day or explore a body treatment, our team can help you choose your service and arrange an appointment. Settle into your own space and enjoy time dedicated to you.\"",
+    "after": "\"Whether you want to unwind after a long day or explore a body treatment, our team can help you choose your service and arrange an appointment. Settle into your own space and enjoy time dedicated at our home spa.\""
+  },
+  {
+    "file": "src\\data\\location-content.ts",
+    "before": "}, Abu Dhabi. Contact our team to confirm availability at your address.`",
+    "after": "}, Abu Dhabi. Contact our team to confirm availability for your visit to our home spa.`"
+  },
+  {
+    "file": "src\\data\\location-content.ts",
+    "before": "\"Tap Book Now to contact us on WhatsApp. Share your location, preferred treatment and appointment time, and our team will confirm availability and booking details.\"",
+    "after": "\"Tap Book Now to contact us on WhatsApp. Share your preferred treatment and appointment time, and our team will confirm availability and booking details.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists bring this gentle, healing treatment at Sara Beauty’s home spa for complete comfort.\"",
+    "after": "\"Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists provide this gentle, healing treatment at Sara Beauty’s home spa for complete comfort.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Relieve stress and muscle tension with Deep Tissue Massage in Saadiyat Island. Sara Beauty’s therapists bring therapeutic care at Sara Beauty’s home spa.\"",
+    "after": "\"Relieve stress and muscle tension with Deep Tissue Massage in Saadiyat Island. Sara Beauty’s therapists provide therapeutic care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Soothe your senses with Aromatherapy Massage in Saadiyat Island. Essential oils and expert touch bring balance and relaxation at Sara Beauty’s home spa.\"",
+    "after": "\"Soothe your senses with Aromatherapy Massage in Saadiyat Island. Essential oils and expert touch provide balance and relaxation at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Ease pregnancy discomfort with Prenatal Massage in Saadiyat Island. Sara Beauty brings gentle, supportive care at Sara Beauty’s home spa.\"",
+    "after": "\"Ease pregnancy discomfort with Prenatal Massage in Saadiyat Island. Sara Beauty offers gentle, supportive care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Restore harmony with Ayurvedic Massage in Saadiyat Island. Herbal oils and ancient techniques bring balance and relaxation at Sara Beauty’s home spa.\"",
+    "after": "\"Restore harmony with Ayurvedic Massage in Saadiyat Island. Herbal oils and ancient techniques provide balance and relaxation at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists bring this gentle, healing treatment at Sara Beauty’s home spa for complete comfort.\"",
+    "after": "\"Boost circulation and reduce swelling with our Post Lymphatic Drainage Massage in Saadiyat Island. Sara Beauty’s therapists provide this gentle, healing treatment at Sara Beauty’s home spa for complete comfort.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Transform Sara Beauty’s home spa into a sanctuary of peace and relaxation. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Reem Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us bring the spa experience directly to you—complete with comfort, privacy, and personalized care.\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Reem Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"home spa massage in Al Bateen, Abu Dhabi? Sara Beauty brings luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\"",
+    "after": "\"home spa massage in Al Bateen, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Need a home spa massage in Al Bateen that fits your lifestyle?\\n\\nSara Beauty brings a complete spa experience at Sara Beauty’s home spa in Abu Dhabi, designed for women who want comfort, privacy, and real results.\\n\\nWhether you’re feeling stressed, dealing with body pain, or just need time to relax, our treatments help you reset, recharge, and feel your best at Sara Beauty’s home spa.\"",
+    "after": "\"Need a home spa massage in Al Bateen that fits your lifestyle?\\n\\nSara Beauty offers a complete spa experience at Sara Beauty’s home spa in Abu Dhabi, designed for women who want comfort, privacy, and real results.\\n\\nWhether you’re feeling stressed, dealing with body pain, or just need time to relax, our treatments help you reset, recharge, and feel your best at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Luxury wellness at Sara Beauty’s home spa – No need to travel; we bring the spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"Luxury wellness at Sara Beauty’s home spa – you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Experience the best Deep Tissue Massage in Abu Dhabi, designed to relieve stress and boost well-being. With Al Bateen home spa services, our expert therapists bring a complete spa setup at Sara Beauty’s home spa, so you can relax, renew, and feel cared for in total comfort.\"",
+    "after": "\"Experience the best Deep Tissue Massage in Abu Dhabi, designed to relieve stress and boost well-being. With Al Bateen home spa services, our expert therapists provide a complete spa setup at Sara Beauty’s home spa, so you can relax, renew, and feel cared for in total comfort.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Maderotherapy in Abu Dhabi is a non-surgical, painless treatment that helps reduce fat and tone the body using wooden tools. With Al Bateen home spa services, Sara Beauty brings this body-contouring therapy at Sara Beauty’s home spa for a private and relaxing experience.\"",
+    "after": "\"Maderotherapy in Abu Dhabi is a non-surgical, painless treatment that helps reduce fat and tone the body using wooden tools. With Al Bateen home spa services, Sara Beauty offers this body-contouring therapy at Sara Beauty’s home spa for a private and relaxing experience.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our Relaxation Massage in Al Bateen is designed to ease stress, calm the mind, and restore balance to your body. With Sara Beauty’s home spa services, our expert therapists bring a soothing and professional massage experience at Sara Beauty’s home spa, allowing you to unwind in complete comfort and privacy.\"",
+    "after": "\"Our Relaxation Massage in Al Bateen is designed to ease stress, calm the mind, and restore balance to your body. With Sara Beauty’s home spa services, our expert therapists provide a soothing and professional massage experience at Sara Beauty’s home spa, allowing you to unwind in complete comfort and privacy.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our Sports Massage in Al Bateen is perfect for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, our professional therapists bring this revitalizing treatment at Sara Beauty’s home spa, so you can perform and feel your best in total comfort and privacy.\"",
+    "after": "\"Our Sports Massage in Al Bateen is perfect for athletes and active individuals, helping to relieve muscle tension, improve flexibility, and speed up recovery. With Sara Beauty’s home spa services, our professional therapists provide this revitalizing treatment at Sara Beauty’s home spa, so you can perform and feel your best in total comfort and privacy.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we bring premium wellness treatments directly to you through our Al Bateen home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Al Bateen home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Transform Sara Beauty’s home spa into a sanctuary of peace and relaxation. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Bateen home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us bring the spa experience directly to you—complete with comfort, privacy, and personalized care.\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Bateen home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"home spa massage in Al Bateen, Abu Dhabi? Sara Beauty brings luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\"",
+    "after": "\"home spa massage in Al Bateen, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we bring premium wellness treatments directly to you through our Khalidiya home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Khalidiya home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Transform Sara Beauty’s home spa into a sanctuary of peace and relaxation. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalidiya home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us bring the spa experience directly to you—complete with comfort, privacy, and personalized care.\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalidiya home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"At Sara Beauty, every woman deserves comfort, confidence, and care. We bring premium wellness treatments at Sara Beauty’s home spa through our Corniche Area home spa massage and spa services — whether you need relaxation, pain relief, or beauty care, our expert therapists deliver a luxurious and personalized experience at Sara Beauty’s home spa.\"",
+    "after": "\"At Sara Beauty, every woman deserves comfort, confidence, and care. We provide premium wellness treatments at Sara Beauty’s home spa through our Corniche Area home spa massage and spa services — whether you need relaxation, pain relief, or beauty care, our expert therapists deliver a luxurious and personalized experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists bring the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience.\"",
+    "after": "\"Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists provide the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Relieve stress and muscle tension with our Deep Tissue Massage in Khalifa City. Sara Beauty’s expert therapists bring this therapeutic treatment at Sara Beauty’s home spa, helping you feel relaxed, renewed, and fully cared for in a private spa-like setting.\"",
+    "after": "\"Relieve stress and muscle tension with our Deep Tissue Massage in Khalifa City. Sara Beauty’s expert therapists provide this therapeutic treatment at Sara Beauty’s home spa, helping you feel relaxed, renewed, and fully cared for in a private spa-like setting.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Recover faster and boost performance with our Sports Massage in Khalifa City. Sara Beauty’s expert therapists bring this targeted treatment at Sara Beauty’s home spa, easing muscle tension and enhancing flexibility in a private spa setting.\"",
+    "after": "\"Recover faster and boost performance with our Sports Massage in Khalifa City. Sara Beauty’s expert therapists provide this targeted treatment at Sara Beauty’s home spa, easing muscle tension and enhancing flexibility in a private spa setting.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Experience the best of both worlds with our Combination Massage in Khalifa City. Blending relaxing and therapeutic techniques, Sara Beauty’s therapists bring a customized spa experience at Sara Beauty’s home spa for complete body and mind relief.\"",
+    "after": "\"Experience the best of both worlds with our Combination Massage in Khalifa City. Blending relaxing and therapeutic techniques, Sara Beauty’s therapists provide a customized spa experience at Sara Beauty’s home spa for complete body and mind relief.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Experience gentle care with our Prenatal Massage in Khalifa City. Designed to ease pregnancy discomfort, reduce swelling, and promote relaxation, Sara Beauty brings this nurturing treatment at Sara Beauty’s home spa for complete comfort and support.\"",
+    "after": "\"Experience gentle care with our Prenatal Massage in Khalifa City. Designed to ease pregnancy discomfort, reduce swelling, and promote relaxation, Sara Beauty offers this nurturing treatment at Sara Beauty’s home spa for complete comfort and support.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Melt away stress with our Hot Stone Massage in Khalifa City. Using warm stones to ease tension and improve circulation, Sara Beauty’s therapists bring a deeply relaxing spa experience to the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Melt away stress with our Hot Stone Massage in Khalifa City. Using warm stones to ease tension and improve circulation, Sara Beauty’s therapists provide a deeply relaxing spa experience to the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Recover and relax with our Postnatal Massage in Khalifa City. Designed to relieve tension, improve circulation, and support healing, Sara Beauty’s therapists bring this restorative treatment at Sara Beauty’s home spa for complete comfort.\"",
+    "after": "\"Recover and relax with our Postnatal Massage in Khalifa City. Designed to relieve tension, improve circulation, and support healing, Sara Beauty’s therapists provide this restorative treatment at Sara Beauty’s home spa for complete comfort.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Revitalize your body with Cupping Therapy in Khalifa City. This ancient technique improves circulation, releases toxins, and eases muscle tension. Sara Beauty’s therapists bring the full spa experience at Sara Beauty’s home spa for maximum comfort.\"",
+    "after": "\"Revitalize your body with Cupping Therapy in Khalifa City. This ancient technique improves circulation, releases toxins, and eases muscle tension. Sara Beauty’s therapists provide the full spa experience at Sara Beauty’s home spa for maximum comfort.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Experience deep relaxation with our Himalayan Signature Massage in Khalifa City. Using warm Himalayan salt stones, Sara Beauty’s therapists melt away tension, restore balance, and bring a luxurious spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"Experience deep relaxation with our Himalayan Signature Massage in Khalifa City. Using warm Himalayan salt stones, Sara Beauty’s therapists melt away tension, restore balance, and provide a luxurious spa experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Pamper yourself with Manicures and Pedicures in Khalifa City. Sara Beauty’s therapists bring professional nail care at Sara Beauty’s home spa, leaving your hands and feet clean, polished, and perfectly refreshed.\"",
+    "after": "\"Pamper yourself with Manicures and Pedicures in Khalifa City. Sara Beauty’s therapists provide professional nail care at Sara Beauty’s home spa, leaving your hands and feet clean, polished, and perfectly refreshed.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Restore harmony with our Ayurvedic Massage in Khalifa City. Using ancient techniques and herbal oils, Sara Beauty’s therapists balance body and mind while bringing a soothing spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"Restore harmony with our Ayurvedic Massage in Khalifa City. Using ancient techniques and herbal oils, Sara Beauty’s therapists balance body and mind while providing a soothing spa experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists bring the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience.\"",
+    "after": "\"Discover Brazilian Maderotherapy in Khalifa City with Sara Beauty. This unique wooden therapy helps sculpt the body, reduce fat, and enhance relaxation. Our expert therapists provide the spa at Sara Beauty’s home spa, offering a private and luxurious wellness experience.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Transform Sara Beauty’s home spa into a sanctuary of peace and relaxation. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalifa City home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us bring the spa experience directly to you—complete with comfort, privacy, and personalized care.\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Khalifa City home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty brings luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\"",
+    "after": "\"home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Luxury wellness at Sara Beauty’s home spa – No need to travel; we bring the spa experience to you.\"",
+    "after": "\"Luxury wellness at Sara Beauty’s home spa – you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Enjoy the peace of a private spa experience without stepping outside.\"",
+    "after": "\"Enjoy the peace of a private spa experience at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Our expert therapists bring professional care at Sara Beauty’s home spa.\"",
+    "after": "\"Our expert therapists provide professional care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we bring premium wellness treatments directly to you through our Al Maryah Island home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort home spa.\"",
+    "after": "\"At Sara Beauty, we believe every woman deserves comfort, confidence, and care. Our services stand out because we provide premium wellness treatments at our home spa through our Al Maryah Island home spa massage and spa services. Whether you’re seeking relaxation, pain relief, or beauty treatments, our expert therapists ensure a luxurious and personalized spa experience right in the comfort home spa.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"Transform Sara Beauty’s home spa into a sanctuary of peace and relaxation. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Maryah Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us bring the spa experience directly to you—complete with comfort, privacy, and personalized care.\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa. With Sara Beauty’s expert therapists, you can enjoy luxurious Al Maryah Island home spa massage and spa services at Sara Beauty’s home spa. Choose your service, pick a time, and let us provide the spa experience at our home spa—complete with comfort, privacy, and personalized care.\""
+  },
+  {
+    "file": "src\\data\\location-pages.json",
+    "before": "\"home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty brings luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\"",
+    "after": "\"home spa massage in Al Maryah Island, Abu Dhabi? Sara Beauty offers luxury spa services at Sara Beauty’s home spa. Female therapists, easy booking. Call now!\""
+  },
+  {
+    "file": "src\\data\\page-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\page-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi for new mothers. Our experienced female therapists deliver personalized postpartum care in the comfort, privacy, and convenience of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\reviews.ts",
+    "before": "\"The best home spa appointments massage.\"",
+    "after": "\"The best home spa massage.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services for pregnant women. Our trained female therapists provide a safe, comfortable, and relaxing experience tailored to your stage of pregnancy.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi for pregnant women. Our trained female therapists provide a safe, comfortable, and relaxing experience tailored to your stage of pregnancy.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services for pregnant women. Our trained female therapists provide a safe, comfortable, and relaxing experience tailored to your stage of pregnancy.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi for pregnant women. Our trained female therapists provide a safe, comfortable, and relaxing experience tailored to your stage of pregnancy.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services performed by licensed female therapists. Our private home spa service brings premium relaxation treatments at Sara Beauty’s home spa, ensuring comfort, privacy, and convenience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi performed by licensed female therapists. Our private home spa service offers premium relaxation treatments at Sara Beauty’s home spa, ensuring comfort, privacy, and convenience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services performed by licensed female therapists. Our private home spa service brings premium relaxation treatments at Sara Beauty’s home spa, ensuring comfort, privacy, and convenience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi performed by licensed female therapists. Our private home spa service offers premium relaxation treatments at Sara Beauty’s home spa, ensuring comfort, privacy, and convenience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a sports massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed to deliver a premium private home spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a sports massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a sports massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed to deliver a premium private home spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a sports massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a traditional Thai Massage without oil in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists provide a safe, relaxing, and professional experience across Abu Dhabi.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a traditional Thai Massage without oil in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists provide a safe, relaxing, and professional experience across Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a traditional Thai Massage without oil in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists provide a safe, relaxing, and professional experience across Abu Dhabi.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a traditional Thai Massage without oil in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists provide a safe, relaxing, and professional experience across Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy an authentic Ayurvedic Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed for a relaxing home spa experience.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi, allowing you to enjoy an authentic Ayurvedic Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy an authentic Ayurvedic Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed for a relaxing home spa experience.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi, allowing you to enjoy an authentic Ayurvedic Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi and home spa services, including manicure and pedicure treatments. Our experienced female therapists bring professional products and equipment at Sara Beauty’s home spa for a relaxing salon-quality experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi and home spa services, including manicure and pedicure treatments. Our experienced female therapists provide professional products and equipment at Sara Beauty’s home spa for a relaxing salon-quality experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi and home spa services, including manicure and pedicure treatments. Our experienced female therapists bring professional products and equipment at Sara Beauty’s home spa for a relaxing salon-quality experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi and home spa services, including manicure and pedicure treatments. Our experienced female therapists provide professional products and equipment at Sara Beauty’s home spa for a relaxing salon-quality experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy our signature massage in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring everything needed for a luxurious spa-quality experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy our signature massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy our signature massage in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring everything needed for a luxurious spa-quality experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy our signature massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, including Dry Cupping Therapy. Our experienced female therapists provide safe and hygienic treatments in the comfort and privacy of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, including Dry Cupping Therapy. Our experienced female therapists provide safe and hygienic treatments in the comfort and privacy of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, including Dry Cupping Therapy. Our experienced female therapists provide safe and hygienic treatments in the comfort and privacy of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, including Dry Cupping Therapy. Our experienced female therapists provide safe and hygienic treatments in the comfort and privacy of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides convenient Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a professional Face Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring premium products and deliver a relaxing spa-quality experience.\"",
+    "after": "\"Yes. Sara Beauty provides convenient massage services at our home spa in Abu Dhabi, allowing you to enjoy a professional Face Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists use premium products and deliver a relaxing spa-quality experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides convenient Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a professional Face Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring premium products and deliver a relaxing spa-quality experience.\"",
+    "after": "\"Yes. Sara Beauty provides convenient massage services at our home spa in Abu Dhabi, allowing you to enjoy a professional Face Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists use premium products and deliver a relaxing spa-quality experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers convenient Massage at Sara Beauty’s home spa Abu Dhabi and home spa services, allowing you to enjoy a professional Full Body Scrub in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring premium products and professional equipment for a relaxing spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers convenient massage services at our home spa in Abu Dhabi and home spa services, allowing you to enjoy a professional Full Body Scrub in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists use premium products and professional equipment for a relaxing spa experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers convenient Massage at Sara Beauty’s home spa Abu Dhabi and home spa services, allowing you to enjoy a professional Full Body Scrub in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring premium products and professional equipment for a relaxing spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers convenient massage services at our home spa in Abu Dhabi and home spa services, allowing you to enjoy a professional Full Body Scrub in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists use premium products and professional equipment for a relaxing spa experience.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a relaxing Hot Stone Massage in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring the necessary equipment to provide a premium spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a relaxing Hot Stone Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a relaxing Hot Stone Massage in the comfort and privacy of Sara Beauty’s home spa. Our experienced female therapists bring the necessary equipment to provide a premium spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a relaxing Hot Stone Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, bringing a luxury spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, providing a luxury spa experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services performed by experienced female therapists. We bring premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa anywhere in Abu Dhabi.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi performed by experienced female therapists. We provide premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa in Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, bringing a luxury spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, providing a luxury spa experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services performed by experienced female therapists. We bring premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa anywhere in Abu Dhabi.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi performed by experienced female therapists. We provide premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa in Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa across Abu Dhabi. Our certified female therapists bring all necessary equipment, premium oils, and clean linens at Sara Beauty’s home spa. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\"",
+    "after": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa in Abu Dhabi. Our team prepares the treatment equipment and products at our home spa before your appointment. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa across Abu Dhabi. Our certified female therapists bring all necessary equipment, premium oils, and clean linens at Sara Beauty’s home spa. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\"",
+    "after": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa in Abu Dhabi. Our team prepares the treatment equipment and products at our home spa before your appointment. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Brazilian Maderotherapy massage in Abu Dhabi. Our certified female therapists arrive fully equipped with all professional wooden tools, oils, and clean linens. There is no need to travel to a spa the full treatment experience is brought at Sara Beauty’s home spa. Bookings are available on the same day via WhatsApp, with flexible morning and evening time slots.\"",
+    "after": "\"Yes. Sara Beauty provides professional Brazilian Maderotherapy massage in Abu Dhabi. Our therapists welcome you at Sara Beauty’s home spa, where everything is prepared for your session. you can book a private appointment at Sara Beauty’s home spa. Bookings are available on the same day via WhatsApp, with flexible morning and evening time slots.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Brazilian Maderotherapy massage in Abu Dhabi. Our certified female therapists arrive fully equipped with all professional wooden tools, oils, and clean linens. There is no need to travel to a spa the full treatment experience is brought at Sara Beauty’s home spa. Bookings are available on the same day via WhatsApp, with flexible morning and evening time slots.\"",
+    "after": "\"Yes. Sara Beauty provides professional Brazilian Maderotherapy massage in Abu Dhabi. Our therapists welcome you at Sara Beauty’s home spa, where everything is prepared for your session. you can book a private appointment at Sara Beauty’s home spa. Bookings are available on the same day via WhatsApp, with flexible morning and evening time slots.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a personalized Combination Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed for a premium spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a personalized Combination Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy a personalized Combination Massage in the comfort and privacy of Sara Beauty’s home spa. Our licensed female therapists bring everything needed for a premium spa experience.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi, allowing you to enjoy a personalized Combination Massage in the comfort and privacy of Sara Beauty’s home spa. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers convenient Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy Face Maderotherapy and other spa treatments in the comfort and privacy of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty offers convenient massage services at our home spa in Abu Dhabi, allowing you to enjoy Face Maderotherapy and other spa treatments in the comfort and privacy of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers convenient Massage at Sara Beauty’s home spa Abu Dhabi services, allowing you to enjoy Face Maderotherapy and other spa treatments in the comfort and privacy of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty offers convenient massage services at our home spa in Abu Dhabi, allowing you to enjoy Face Maderotherapy and other spa treatments in the comfort and privacy of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services, including Foot Reflexology. Our licensed female therapists bring everything needed to deliver a relaxing spa experience in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi, including Foot Reflexology. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty provides professional Massage at Sara Beauty’s home spa Abu Dhabi services, including Foot Reflexology. Our licensed female therapists bring everything needed to deliver a relaxing spa experience in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Yes. Sara Beauty provides professional massage services at our home spa in Abu Dhabi, including Foot Reflexology. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional home spa massage services in Abu Dhabi, including selected body wellness treatments. Contact our team to confirm availability and choose the treatment option that best suits your location and wellness goals.\"",
+    "after": "\"Yes. Sara Beauty offers professional home spa massage services in Abu Dhabi, including selected body wellness treatments. Contact our team to confirm availability and choose the treatment option that best suits your preferences and wellness goals.\""
+  },
+  {
+    "file": "src\\data\\service-seo.json",
+    "before": "\"Yes. Sara Beauty offers professional home spa massage services in Abu Dhabi, including selected body wellness treatments. Contact our team to confirm availability and choose the treatment option that best suits your location and wellness goals.\"",
+    "after": "\"Yes. Sara Beauty offers professional home spa massage services in Abu Dhabi, including selected body wellness treatments. Contact our team to confirm availability and choose the treatment option that best suits your preferences and wellness goals.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa across Abu Dhabi. Our certified female therapists bring all necessary equipment, premium oils, and clean linens at Sara Beauty’s home spa. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\"",
+    "after": "\"Yes. Sara Beauty provides professional Brazilian lymphatic slimming massage at Sara Beauty’s home spa in Abu Dhabi. Our team prepares the treatment equipment and products at our home spa before your appointment. sessions at our home spa offer the same quality as a spa visit with added privacy, convenience, and flexibility in scheduling. Same-day and next-day bookings are available via WhatsApp.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, bringing a luxury spa experience at Sara Beauty’s home spa.\"",
+    "after": "\"An aromatherapy massage combines therapeutic massage techniques with carefully selected essential oils to help reduce stress, relax muscles, improve mood, and promote overall well-being. At Sara Beauty, you can also enjoy professional home spa massage Abu Dhabi services, providing a luxury spa experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Yes. Sara Beauty offers professional Massage at Sara Beauty’s home spa Abu Dhabi services performed by experienced female therapists. We bring premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa anywhere in Abu Dhabi.\"",
+    "after": "\"Yes. Sara Beauty offers professional massage services at our home spa in Abu Dhabi performed by experienced female therapists. We provide premium massage oils, professional equipment, and a relaxing spa experience at Sara Beauty’s home spa in Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Transform your body and mind with the holistic Brazilian Maderotherapy technique in Abu Dhabi that blends ancient techniques with modern benefits. Our licensed therapists shape the body with precision and care. We also offer Al Bateen home spa massage and spa services, bringing the benefits of Brazilian Maderotherapy and other wellness treatments at Sara Beauty’s home spa.\"",
+    "after": "\"Transform your body and mind with the holistic Brazilian Maderotherapy technique in Abu Dhabi that blends ancient techniques with modern benefits. Our licensed therapists shape the body with precision and care. We also offer Al Bateen home spa massage and spa services, providing the benefits of Brazilian Maderotherapy and other wellness treatments at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"A home spa massage is a professional wellness service where certified therapists visit Sara Beauty’s home spa to provide treatments like:\"",
+    "after": "\"A home spa massage is a professional wellness service where clients visit Sara Beauty’s home spa for treatments like:\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Instead of traveling to a spa, you enjoy the same luxury experience at Sara Beauty’s home spa.\"",
+    "after": "\"During your visit to Sara Beauty’s home spa, you enjoy the same luxury experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\": One of the biggest advantages of a home spa massage in Abu Dhabi is the ability to enjoy a relaxing experience in the comfort of Sara Beauty’s home spa. After a long day at work or dealing with the demands of daily life, the last thing you want is to add more stress by having to travel to a spa. With a home spa massage, you can create a serene and tranquil environment at Sara Beauty’s home spa, allowing you to fully unwind and rejuvenate without any additional hassle. In most upscale spas, appointments are scheduled back-to-back. Therefore, if you arrive 15 minutes late for your appointment, the spa will only provide treatment for the remaining time of your session. This is often disappointing for the client, but the rough reality of spa bookings! With home spa services like Sara Beauty and Slimming , , there is no need to navigate through traffic twice just to enjoy a relaxing experience.\"",
+    "after": "\": One of the biggest advantages of a home spa massage in Abu Dhabi is the ability to enjoy a relaxing experience in the comfort of Sara Beauty’s home spa. After a long day at work or dealing with the demands of daily life, the last thing you want is to add more stress by having to travel to a spa. With a home spa massage, you can create a serene and tranquil environment at Sara Beauty’s home spa, allowing you to fully unwind and rejuvenate without any additional hassle. In most upscale spas, appointments are scheduled back-to-back. Therefore, if you arrive 15 minutes late for your appointment, the spa will only provide treatment for the remaining time of your session. This is often disappointing for the client, but the rough reality of spa bookings! With home spa services like Sara Beauty and Slimming , , you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"As the corporate landscape becomes more fiercely competitive, professionals find themselves dedicating longer hours to stay relevant and succeed in their respective industries. People are constantly at the beck and call of their jobs and businesses. After a long day or week of work, deciding whether to sleep or drive some distance to a spa for a massage can be difficult. However, the need for rest often outweighs the effort needed to travel there and back! Having an home spa experience means that you don’t have to make that decision. By booking a massage session at Sara Beauty’s home spa, you eliminate the need to commute to a spa, saving you valuable time. Additionally, you have the flexibility to choose the timing that works best for you, whether it's during the day or in the evening.\"",
+    "after": "\"As the corporate landscape becomes more fiercely competitive, professionals find themselves dedicating longer hours to stay relevant and succeed in their respective industries. People are constantly at the beck and call of their jobs and businesses. After a long day or week of work, deciding whether to sleep or drive some distance to a spa for a massage can be difficult. However, the need for rest often outweighs the effort needed to travel there and back! Having a home spa experience means that you don’t have to make that decision. By booking a massage session at Sara Beauty’s home spa, you plan a private spa visit around your schedule. Additionally, you have the flexibility to choose the timing that works best for you, whether it's during the day or in the evening.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"When you visit an unfamiliar place, your brain absorbs all the visuals, smells, and feelings around you. Processing such a large amount of information can be overwhelming, making it challenging to soothe your mind.You may find yourself wondering about the room's decor, the scent of the oils being used, or even the change in temperature. Additionally, if your regular therapist is unavailable and you're assigned a new one, it can add to the confusion and stress. On top of that, being asked to strip down in unfamiliar surroundings can make you feel even more uneasy. There's a lot happening during a spa visit!That's why having an home spa massage is so beneficial. You have complete control over your surroundings. You get to choose the room and the oils used. Being in a familiar setting allows your mind to relax. The ultimate healing and relaxation begin in the mind. And when your mind is relaxed, you can experience the full benefits of healing and relaxation.\"",
+    "after": "\"When you visit an unfamiliar place, your brain absorbs all the visuals, smells, and feelings around you. Processing such a large amount of information can be overwhelming, making it challenging to soothe your mind.You may find yourself wondering about the room's decor, the scent of the oils being used, or even the change in temperature. Additionally, if your regular therapist is unavailable and you're assigned a new one, it can add to the confusion and stress. On top of that, being asked to strip down in unfamiliar surroundings can make you feel even more uneasy. There's a lot happening during a spa visit!That's why having a home spa massage is so beneficial. You have complete control over your surroundings. You get to choose the room and the oils used. Being in a familiar setting allows your mind to relax. The ultimate healing and relaxation begin in the mind. And when your mind is relaxed, you can experience the full benefits of healing and relaxation.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty brings relaxing spa and massage treatments for women at Sara Beauty’s home spa.\"",
+    "after": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty offers relaxing spa and massage treatments for women at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty brings relaxing spa and massage treatments for women at Sara Beauty’s home spa.\"",
+    "after": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty offers relaxing spa and massage treatments for women at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"best home spa appointments spa Abu Dhabi\"",
+    "after": "\"best home spa spa Abu Dhabi\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Looking for a home spa service in Abu Dhabi? Sara Beauty brings relaxing spa and massage treatments for women at Sara Beauty’s home spa anywhere in Abu Dhabi. Instead of travelling to a spa, you can enjoy your session in a comfortable and private setting. Our female therapists help women take time out from busy schedules, relieve daily stress, and enjoy quality self-care at Sara Beauty’s home spa.\"",
+    "after": "\"Looking for a home spa service in Abu Dhabi? Sara Beauty offers relaxing spa and massage treatments for women at Sara Beauty’s home spa in Abu Dhabi. During your visit to Sara Beauty’s home spa, you can enjoy your session in a comfortable and private setting. Our female therapists help women take time out from busy schedules, relieve daily stress, and enjoy quality self-care at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Experience luxury and relaxation with the best home spa appointments spa Abu Dhabi has to offer – Sara Beauty .\"",
+    "after": "\"Experience luxury and relaxation with the best home spa spa Abu Dhabi has to offer – Sara Beauty .\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Stay in the comfort of Sara Beauty’s home spa and let professional therapists come to you for an exceptionally indulgent and revitalizing experience.\"",
+    "after": "\"Stay in the comfort of Sara Beauty’s home spa and let professional therapists come at our home spa for an exceptionally indulgent and revitalizing experience.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"More women in Abu Dhabi are choosing home spa services because they offer privacy, comfort, and flexibility. Instead of dealing with traffic, parking, or waiting times, you can enjoy your spa session in a familiar environment. Whether you're a working professional, a busy mother, or simply looking for time to relax, a home spa treatment allows you to focus on your well-being at Sara Beauty’s home spa.\"",
+    "after": "\"More women in Abu Dhabi are choosing home spa services because they offer privacy, comfort, and flexibility. During your visit to Sara Beauty’s home spa, you can enjoy your spa session in a familiar environment. Whether you're a working professional, a busy mother, or simply looking for time to relax, a home spa treatment allows you to focus on your well-being at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"One of the main reasons women choose home spa and massage services in Abu Dhabi is the flexibility they offer. With Sara Beauty, there is no need to travel or spend time waiting for appointments. Our female therapists visit your location at a time that suits you, allowing you to enjoy your session in complete comfort and privacy. Whether you are looking to relax after a busy day or make regular self-care part of your routine, home spa services make it easier to prioritize your well-being without disrupting your schedule.\"",
+    "after": "\"One of the main reasons women choose home spa and massage services in Abu Dhabi is the flexibility they offer. With Sara Beauty, you can book a private appointment at Sara Beauty’s home spa. Our therapists welcome you at Sara Beauty’s home spa, where everything is prepared for your session. Whether you are looking to relax after a busy day or make regular self-care part of your routine, home spa services make it easier to prioritize your well-being without disrupting your schedule.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Transform Sara Beauty’s home spa into a Wellness Oasis with Sara Beauty\"",
+    "after": "\"Discover a peaceful retreat at Sara Beauty’s home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Experience the serenity and rejuvenation of a home spa appointments massage with Sara Beauty. Their expert therapists bring the tranquility of a top-tier massage in Abu Dhabi at Sara Beauty’s home spa, instantly transforming Sara Beauty’s home spa into a wellness oasis. With utmost convenience and an array of customizable treatments, your search for a private massage therapist near me ends with Sara Beauty.\"",
+    "after": "\"Experience the serenity and rejuvenation of a home spa massage with Sara Beauty. Their expert therapists provide the tranquility of a top-tier massage in Abu Dhabi at Sara Beauty’s home spa, instantly transforming Sara Beauty’s home spa into a wellness oasis. With utmost convenience and an array of customizable treatments, your search for a private massage therapist near me ends with Sara Beauty.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Scheduling a session is a breeze – simply book your appointment, and let Sara Beauty take care of the rest. With a focus on spa wellness and wellness and spa services, their skilled therapists arrive at Sara Beauty’s home spa fully equipped and prepared to provide a soothing, therapeutic massage, rivaling any nearby massage center or prominent Abu Dhabi massage spa. Let your imagination run wild as you create your unique wellness experience by combining treatments from Sara Beauty's extensive menu. Whether you opt for a deep tissue massage to release tension or a rejuvenating facial to restore your skin's natural glow, the options are endless. And rest assured, expert therapists will professionally set up Sara Beauty’s home spa environment, ensuring an authentic spa experience in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Scheduling a session is a breeze – simply book your appointment, and let Sara Beauty take care of the rest. With a focus on spa wellness and wellness and spa services, Our therapists welcome you at Sara Beauty’s home spa, where everything is prepared for your session. Let your imagination run wild as you create your unique wellness experience by combining treatments from Sara Beauty's extensive menu. Whether you opt for a deep tissue massage to release tension or a rejuvenating facial to restore your skin's natural glow, the options are endless. And rest assured, expert therapists will professionally set up Sara Beauty’s home spa environment, ensuring an authentic spa experience in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"The adaptability and scope of Sara Beauty's offerings make them the go-to option for those seeking an extraordinary home spa experience. By delivering unparalleled relaxation, rejuvenation, and convenience directly to you, Sara Beauty truly embodies the essence of a wellness oasis, right at Sara Beauty’s home spa.\"",
+    "after": "\"The adaptability and scope of Sara Beauty's offerings make them the go-to option for those seeking an extraordinary home spa experience. By delivering unparalleled relaxation, rejuvenation, and convenience at our home spa, Sara Beauty truly embodies the essence of a wellness oasis, right at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Experience the luxury and relaxation of a spa at Sara Beauty’s home spa, thanks to Sara Beauty's expert home spa services in Abu Dhabi. With a range of offerings, from the best home spa appointments massage to customized massage therapy sessions, you are sure to find the perfect treatment to meet your wellness needs.\"",
+    "after": "\"Experience the luxury and relaxation of a spa at Sara Beauty’s home spa, thanks to Sara Beauty's expert home spa services in Abu Dhabi. With a range of offerings, from the best home spa massage to customized massage therapy sessions, you are sure to find the perfect treatment to meet your wellness needs.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty provides home spa services across Abu Dhabi, including residential communities, apartments, villas, and hotel accommodations within the city.\"",
+    "after": "\"Sara Beauty welcomes women from across Abu Dhabi to our private home spa. All treatments take place at our spa; we do not visit clients’ homes or hotels.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No. The therapist brings the necessary supplies required for the treatment. You only need a comfortable space where the session can be performed.\"",
+    "after": "\"No. Our team prepares the treatment equipment and products at our home spa before your appointment. Simply visit our home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Why choose a home spa service instead of visiting a spa?\"",
+    "after": "\"Why choose a home spa service for a private spa visit?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty brings relaxing spa and massage treatments for women at Sara Beauty’s home spa.\"",
+    "after": "\"Looking for the best home spa services in Abu Dhabi? Sara Beauty offers relaxing spa and massage treatments for women at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"best home spa appointments spa Abu Dhabi\"",
+    "after": "\"best home spa spa Abu Dhabi\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty offers professional home lymphatic massage services , bringing relaxation and recovery at Sara Beauty’s home spa.\"",
+    "after": "\"Sara Beauty offers professional home lymphatic massage services , providing relaxation and recovery at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No travel, no traffic, no waiting.\"",
+    "after": "\"A private setting and appointments planned around your schedule.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings home spa and massage services at Sara Beauty’s home spa in Abu Dhabi, so you can relax at Sara Beauty’s home spa and save time while still taking care of your wellbeing.\"",
+    "after": "\"Sara Beauty offers home spa and massage services at Sara Beauty’s home spa in Abu Dhabi, so you can relax at Sara Beauty’s home spa and save time while still taking care of your wellbeing.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Book your Sara Beauty Home Spa & Massage in Abu Dhabi today and enjoy professional relaxation at Sara Beauty’s home spa. Our trained therapists bring comfort, care, and full privacy at Sara Beauty’s home spa.\"",
+    "after": "\"Book your Sara Beauty Home Spa & Massage in Abu Dhabi today and enjoy professional relaxation at Sara Beauty’s home spa. Our trained therapists provide comfort, care, and full privacy at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"4. Do I need to prepare anything before the therapist arrives?\"",
+    "after": "\"4. Do I need to prepare anything before your spa appointment?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No special preparation is needed. Just a quiet space where you can relax—our therapist brings all required equipment and spa essentials.\"",
+    "after": "\"No special preparation is needed. Visit our home spa, where Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Do I need to prepare anything before the therapist arrives?\"",
+    "after": "\"Do I need to prepare anything before your spa appointment?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"It might be difficult to find \\\"me-time,\\\" let's face it. The window of time you have for relaxation might be eaten away by traffic and crowded spas. For that reason, Sarah Beauty comes to you with the Top Home Spa experience for Women in Abu Dhabi. Imagine escaping the trouble of getting there and settling into luxurious comfort in your own sanctuary.\"",
+    "after": "\"It might be difficult to find \\\"me-time,\\\" let's face it. The window of time you have for relaxation might be eaten away by traffic and crowded spas. For that reason, Sarah Beauty comes at our home spa with the Top Home Spa experience for Women in Abu Dhabi. Imagine escaping the trouble of getting there and settling into luxurious comfort in your own sanctuary.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty, we're Abu Dhabi's leading provider of luxury and professional home spa services . We understand the unique appeal of home pampering – the convenience of skipping the commute, the chance to unwind in familiar surroundings, and the freedom to truly switch off. But what truly elevates your experience is our team of expert therapists and our curated menu of top-notch treatments designed to melt away stress and leave you feeling utterly rejuvenated.\"",
+    "after": "\"At Sara Beauty, we're Abu Dhabi's leading provider of luxury and professional home spa services . We understand the unique appeal of home pampering – with appointments arranged around your schedule, the chance to unwind in familiar surroundings, and the freedom to truly switch off. But what truly elevates your experience is our team of expert therapists and our curated menu of top-notch treatments designed to melt away stress and leave you feeling utterly rejuvenated.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Aromatherapy with lavender and mint essential oils helps calm the mind and refresh the senses. This treatment creates a peaceful home spa experience, allowing complete relaxation without stepping outside.\"",
+    "after": "\"Aromatherapy with lavender and mint essential oils helps calm the mind and refresh the senses. This treatment creates a peaceful home spa experience, allowing complete relaxation at our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty focuses on delivering professional home spa services in Abu Dhabi that combine comfort, quality, and personalized care. Every treatment is designed to bring real results while allowing you to relax at Sara Beauty’s home spa.\"",
+    "after": "\"Sara Beauty focuses on delivering professional home spa services in Abu Dhabi that combine comfort, quality, and personalized care. Every treatment is designed to provide real results while allowing you to relax at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings the full spa experience at Sara Beauty’s home spa, removing the need to travel in heat or adjust your busy schedule. Whether it’s after work or during a self-care day, treatments are arranged at your convenience.\"",
+    "after": "\"Sara Beauty offers the full spa experience at Sara Beauty’s home spa, with appointments arranged around your schedule. Whether it’s after work or during a self-care day, treatments are arranged at your convenience.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"This service is especially helpful for women managing family, work, or limited time, offering a calm and private spa environment without outside distractions. It turns Sara Beauty’s home spa into a complete wellness space focused on relaxation and self-care.\"",
+    "after": "\"This service is especially helpful for women managing family, work, or limited time, offering a calm and private spa environment without outside distractions. Our home spa offers a dedicated space for relaxation and self-care.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Do I need to visit a salon for Sara Beauty services?\"",
+    "after": "\"Do I need to visit Sara Beauty for my treatment?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No, all services are provided at Sara Beauty’s home spa. Professional therapists bring complete spa setups to your location so you can enjoy comfort, privacy, and relaxation at Sara Beauty’s home spa.\"",
+    "after": "\"Yes. All treatments take place at Sara Beauty’s private home spa in Abu Dhabi. Clients visit us for their appointments; we do not offer home visits.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Let's face it, scheduling a spa visit can be tricky. Between work, family commitments, and the ever-present traffic, carving out \\\"me-time\\\" can feel like a mission. That's where Sarah Beauty steps in. We understand the desire for luxurious pampering, and we bring the women’s spa experience directly to you in the comfort and privacy of Sara Beauty’s home spa in Abu Dhabi.\"",
+    "after": "\"Let's face it, scheduling a spa visit can be tricky. Between work, family commitments, and the ever-present traffic, carving out \\\"me-time\\\" can feel like a mission. That's where Sarah Beauty steps in. We understand the desire for luxurious pampering, and we provide the women’s spa experience at our home spa in the comfort and privacy of Sara Beauty’s home spa in Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Ready to embark on your spa journey? We recommend browsing online reviews and spa websites to find the perfect sanctuary for your needs. And don't forget, Sarah Beauty is always here to bring Abu Dhabi’s best spa experience directly to you!\"",
+    "after": "\"Ready to embark on your spa journey? We recommend browsing online reviews and spa websites to find the perfect sanctuary for your needs. And don't forget, Sarah Beauty is always here to provide Abu Dhabi’s best spa experience at our home spa!\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Relax and Rejuvenate: Our professional therapists will arrive at Sara Beauty’s home spa, ready to create a luxurious spa experience and leave you feeling refreshed and radiant.\"",
+    "after": "\"Relax and Rejuvenate: Our team will welcome you at Sara Beauty’s home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Feeling the hustle and bustle of everyday life getting to you? Dreaming of a serene escape where relaxation and rejuvenation await? Look no further than the incredible range of massage spa experiences for women in Abu Dhabi. From traditional techniques to modern treatments, spa centers in Abu Dhabi promise a tranquil retreat tailored to your needs. Discover a relaxing wellness experience at Sara Beauty, a trusted massage spa in Abu Dhabi offering professional treatments for women in a private and comfortable environment . In this comprehensive guide, we'll delve into the diverse offerings to help you unwind and refresh.\"",
+    "after": "\"Feeling the hustle and bustle of everyday life getting at our home spa? Dreaming of a serene escape where relaxation and rejuvenation await? Look no further than the incredible range of massage spa experiences for women in Abu Dhabi. From traditional techniques to modern treatments, spa centers in Abu Dhabi promise a tranquil retreat tailored to your needs. Discover a relaxing wellness experience at Sara Beauty, a trusted massage spa in Abu Dhabi offering professional treatments for women in a private and comfortable environment . In this comprehensive guide, we'll delve into the diverse offerings to help you unwind and refresh.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Why Visit: Sara Beauty's experienced therapists bring the spa experience to you, ensuring maximum convenience and relaxation without the hassle of travel. Their focus on natural and personalized treatments makes them a top choice for stress relief and wellness.\"",
+    "after": "\"Why Visit: Sara Beauty's experienced therapists provide the spa experience at our home spa, ensuring maximum convenience and relaxation during a visit to our private home spa. Their focus on natural and personalized treatments makes them a top choice for stress relief and wellness.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Convenience : Enjoy treatments without the hassle of travel.\"",
+    "after": "\"Convenience : Enjoy treatments during a visit to our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Discover top-rated providers who bring high-quality massage services at Sara Beauty’s home spa.\"",
+    "after": "\"Discover top-rated providers who provide high-quality massage services at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa massage and spa services offer a perfect blend of convenience, privacy, and luxury. For women living in Abu Dhabi or anywhere else, these services bring the spa experience at Sara Beauty’s home spa, ensuring you can enjoy top-quality treatments at Sara Beauty’s home spa. Whether you're looking for relaxation, therapeutic benefits, or a special treat, there's a home spa service that’s right for you. Book your appointment today and indulge in the ultimate home spa experience with Sara Beauty.\"",
+    "after": "\"home spa massage and spa services offer a perfect blend of convenience, privacy, and luxury. For women living in Abu Dhabi or anywhere else, these services provide the spa experience at Sara Beauty’s home spa, ensuring you can enjoy top-quality treatments at Sara Beauty’s home spa. Whether you're looking for relaxation, therapeutic benefits, or a special treat, there's a home spa service that’s right for you. Book your appointment today and indulge in the ultimate home spa experience with Sara Beauty.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Home Relaxation Massage: home spa massage services bring the benefits of relaxing massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care.\"",
+    "after": "\"Home Relaxation Massage: home spa massage services provide the benefits of relaxing massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa massage services bring the benefits of relaxing massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care. This option is particularly beneficial for those with busy schedules or limited mobility.\"",
+    "after": "\"home spa massage services provide the benefits of relaxing massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care. This option is particularly beneficial for those with busy schedules or limited mobility.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty, we are dedicated to providing the highest quality relaxing massages to help you escape the stresses of everyday life and find moments of tranquility. Whether you are a busy professional, a student, a senior, or a caregiver, our range of massage therapies is designed to meet your specific needs and promote overall well-being. By understanding the various types of relaxing massages, their benefits, and the methods used, you can make an informed decision and choose the best relaxation therapy for you. Visit our spa, wellness center, or enjoy an home spa relaxation massage, and let our experienced practitioners guide you to a state of serene bliss.\"",
+    "after": "\"At Sara Beauty, we are dedicated to providing the highest quality relaxing massages to help you escape the stresses of everyday life and find moments of tranquility. Whether you are a busy professional, a student, a senior, or a caregiver, our range of massage therapies is designed to meet your specific needs and promote overall well-being. By understanding the various types of relaxing massages, their benefits, and the methods used, you can make an informed decision and choose the best relaxation therapy for you. Visit our spa, wellness center, or enjoy a home spa relaxation massage, and let our experienced practitioners guide you to a state of serene bliss.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa massage services bring the benefits of deep tissue massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care. This option is particularly beneficial for those with busy schedules or limited mobility.\"",
+    "after": "\"home spa massage services provide the benefits of deep tissue massage to the comfort of Sara Beauty’s home spa, providing convenience and personalized care. This option is particularly beneficial for those with busy schedules or limited mobility.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty, we are dedicated to providing the highest quality deep tissue massages to help you maintain an active lifestyle. Whether you are an athlete, a fitness enthusiast, or someone dealing with chronic pain, our range of deep tissue massage therapies is designed to meet your specific needs and promote overall well-being. By understanding the various benefits, techniques, and applications of deep tissue massage, you can make an informed decision and choose the best therapy for you. Visit our spa, wellness center, or enjoy an home spa deep tissue massage, and let our experienced practitioners guide you to a state of enhanced health and relaxation.\"",
+    "after": "\"At Sara Beauty, we are dedicated to providing the highest quality deep tissue massages to help you maintain an active lifestyle. Whether you are an athlete, a fitness enthusiast, or someone dealing with chronic pain, our range of deep tissue massage therapies is designed to meet your specific needs and promote overall well-being. By understanding the various benefits, techniques, and applications of deep tissue massage, you can make an informed decision and choose the best therapy for you. Visit our spa, wellness center, or enjoy a home spa deep tissue massage, and let our experienced practitioners guide you to a state of enhanced health and relaxation.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty , we understand the importance of self-care and offer a diverse range of top-notch home spa massage services for women . Whether you're looking to unwind after a long day, pamper yourself with a luxurious treatment, or address specific health and wellness needs, our expert therapists bring the spa experience at Sara Beauty’s home spa. Join us as we explore 20 of the best home spa massage services available for women in Abu Dhabi, each designed to enhance your well-being and bring tranquility into your life.\"",
+    "after": "\"At Sara Beauty , we understand the importance of self-care and offer a diverse range of top-notch home spa massage services for women . Whether you're looking to unwind after a long day, pamper yourself with a luxurious treatment, or address specific health and wellness needs, our expert therapists provide the spa experience at Sara Beauty’s home spa. Join us as we explore 20 of the best home spa massage services available for women in Abu Dhabi, each designed to enhance your well-being and bring tranquility into your life.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty understands this and brings luxurious spa experiences at Sara Beauty’s home spa in Abu Dhabi. Offering a variety of massage services tailored specifically for women, Sara Beauty ensures that you can relax and rejuvenate in the comfort and privacy of your own space. Here are the top 10 massage services for ladies at Sara Beauty’s home spa provided by Sara Beauty.\"",
+    "after": "\"Sara Beauty understands this and offers luxurious spa experiences at Sara Beauty’s home spa in Abu Dhabi. Offering a variety of massage services tailored specifically for women, Sara Beauty ensures that you can relax and rejuvenate in the comfort and privacy of your own space. Here are the top 10 massage services for ladies at Sara Beauty’s home spa provided by Sara Beauty.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"With Sara Beauty’s home spa massage services, you can enjoy a luxurious spa experience in the comfort and privacy of Sara Beauty’s home spa. This convenience allows you to relax and rejuvenate without the hassle of traveling.\"",
+    "after": "\"With Sara Beauty’s home spa massage services, you can enjoy a luxurious spa experience in the comfort and privacy of Sara Beauty’s home spa. This convenience allows you to relax and rejuvenate during a visit to our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings the luxury and benefits of professional massage services at Sara Beauty’s home spa in Abu Dhabi. With a wide range of treatments designed specifically for women, you can choose the massage that best suits your needs and enjoy a relaxing and rejuvenating experience in the comfort of your own space. Whether you are looking to relieve stress, improve flexibility, or simply pamper yourself, Sara Beauty’s home spa massage services offer the perfect solution for your wellness needs. Book your appointment today and experience the ultimate in relaxation and self-care.\"",
+    "after": "\"Sara Beauty offers the luxury and benefits of professional massage services at Sara Beauty’s home spa in Abu Dhabi. With a wide range of treatments designed specifically for women, you can choose the massage that best suits your needs and enjoy a relaxing and rejuvenating experience in the comfort of your own space. Whether you are looking to relieve stress, improve flexibility, or simply pamper yourself, Sara Beauty’s home spa massage services offer the perfect solution for your wellness needs. Book your appointment today and experience the ultimate in relaxation and self-care.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"One of the standout features of Sara Beauty is our home spa massage services. We bring the spa experience at Sara Beauty’s home spa, allowing you to enjoy a professional deep tissue massage in the comfort and privacy of Sara Beauty’s home spa. This convenience saves you time and ensures a more relaxed experience.\"",
+    "after": "\"One of the standout features of Sara Beauty is our home spa massage services. We provide the spa experience at Sara Beauty’s home spa, allowing you to enjoy a professional deep tissue massage in the comfort and privacy of Sara Beauty’s home spa. This convenience saves you time and ensures a more relaxed experience.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"You will receive a confirmation email with the details of your booking. Our therapist will arrive at your specified location at the scheduled time, bringing everything needed for your deep tissue massage.\"",
+    "after": "\"You will receive a confirmation email with the details of your booking. Our team will welcome you at Sara Beauty’s home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty in Abu Dhabi offers an array of home spa massage , home spa , and beauty services that bring the luxury and relaxation of a spa at Sara Beauty’s home spa. With professional and personalized services tailored to meet your specific needs, you can enjoy the ultimate pampering experience in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Sara Beauty in Abu Dhabi offers an array of home spa massage , home spa , and beauty services that provide the luxury and relaxation of a spa at Sara Beauty’s home spa. With professional and personalized services tailored to meet your specific needs, you can enjoy the ultimate pampering experience in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Convenience : No need to travel; services come directly to you.\"",
+    "after": "\"Convenience : you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"You will receive a confirmation email with the details of your booking. Our professional team will arrive at your specified location at the scheduled time, bringing everything needed to provide your selected services.\"",
+    "after": "\"You will receive a confirmation email with the details of your booking. Our team will welcome you at Sara Beauty’s home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings the luxury and relaxation of a professional spa at Sara Beauty’s home spa in Abu Dhabi. With a wide range of massage, spa, and beauty services tailored specifically for women, you can enjoy personalized and professional care at Sara Beauty’s home spa. Whether you’re looking to relax with a massage, rejuvenate your skin with a facial, or enhance your beauty with hair and makeup services, Sara Beauty offers the ultimate convenience and quality.\"",
+    "after": "\"Sara Beauty offers the luxury and relaxation of a professional spa at Sara Beauty’s home spa in Abu Dhabi. With a wide range of massage, spa, and beauty services tailored specifically for women, you can enjoy personalized and professional care at Sara Beauty’s home spa. Whether you’re looking to relax with a massage, rejuvenate your skin with a facial, or enhance your beauty with hair and makeup services, Sara Beauty offers the ultimate convenience and quality.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings the luxury and relaxation of a spa at Sara Beauty’s home spa. Our range of home spa massage and spa services , delivered by professional therapists and beauty experts, ensures that you can indulge in top-quality treatments at Sara Beauty’s home spa. Whether you need a relaxing massage, a rejuvenating facial, or a complete beauty treatment, Sara Beauty has you covered.\"",
+    "after": "\"Sara Beauty offers the luxury and relaxation of a spa at Sara Beauty’s home spa. Our range of home spa massage and spa services , delivered by professional therapists and beauty experts, ensures that you can indulge in top-quality treatments at Sara Beauty’s home spa. Whether you need a relaxing massage, a rejuvenating facial, or a complete beauty treatment, Sara Beauty has you covered.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Our home spa massage therapy services bring the expertise of professional massage therapists at Sara Beauty’s home spa. Whether you're looking for a deep tissue massage, Swedish massage, or any other therapeutic treatment, our skilled therapists are equipped to deliver a high-quality experience in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Our home spa massage therapy services provide the expertise of professional massage therapists at Sara Beauty’s home spa. Whether you're looking for a deep tissue massage, Swedish massage, or any other therapeutic treatment, our skilled therapists are equipped to deliver a high-quality experience in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"With our on-demand massage services, you can book a session at a time that suits your schedule. Our flexible booking system allows you to enjoy a massage whenever you need it, without the hassle of traveling to a spa.\"",
+    "after": "\"With our on-demand massage services, you can book a session at a time that suits your schedule. Our flexible booking system allows you to enjoy a massage whenever you need it, during a visit to our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Our mobile beauty services bring the salon to you, offering convenient and professional beauty treatments at Sara Beauty’s home spa. Whether you need a quick touch-up or a full beauty makeover, our skilled technicians are here to help.\"",
+    "after": "\"Our mobile beauty services provide the salon at our home spa, offering convenient and professional beauty treatments at Sara Beauty’s home spa. Whether you need a quick touch-up or a full beauty makeover, our skilled technicians are here to help.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Our home spa massage services are available throughout Abu Dhabi, providing you with easy access to top-quality treatments. Whether you need a quick relaxation session or a comprehensive therapeutic massage, we bring the spa experience to you.\"",
+    "after": "\"Our home spa massage services are available throughout Abu Dhabi, providing you with easy access to top-quality treatments. Whether you need a quick relaxation session or a comprehensive therapeutic massage, we provide the spa experience at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Booking Sara Beauty’s home spa and beauty services with Sara Beauty is simple and convenient. Visit our website, select the services you need, choose a date and time that works for you, and confirm your appointment. Our team will arrive at Sara Beauty’s home spa fully equipped to provide your selected treatments.\"",
+    "after": "\"Booking Sara Beauty’s home spa and beauty services with Sara Beauty is simple and convenient. Visit our website, select the services you need, choose a date and time that works for you, and confirm your appointment. Our team will welcome you at Sara Beauty’s home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty brings the luxury and relaxation of a professional spa at Sara Beauty’s home spa in Abu Dhabi. With a wide range of home spa massage, spa, and beauty services tailored specifically for women, you can enjoy personalized and professional care at Sara Beauty’s home spa. Whether you're looking to relax with a massage, rejuvenate your skin with a facial, or enhance your beauty with hair and makeup services, Sara Beauty offers the ultimate convenience and quality.\"",
+    "after": "\"Sara Beauty offers the luxury and relaxation of a professional spa at Sara Beauty’s home spa in Abu Dhabi. With a wide range of home spa massage, spa, and beauty services tailored specifically for women, you can enjoy personalized and professional care at Sara Beauty’s home spa. Whether you're looking to relax with a massage, rejuvenate your skin with a facial, or enhance your beauty with hair and makeup services, Sara Beauty offers the ultimate convenience and quality.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"For anyone who'd rather skip the drive and enjoy a relaxing massage at Sara Beauty’s home spa, Sara Beauty offers professional home spa massage services across Abu Dhabi. Trained therapists bring the full spa experience at Sara Beauty’s home spa, using quality oils and a range of techniques — from Swedish and deep tissue to aromatherapy — tailored to your schedule and comfort.\"",
+    "after": "\"For anyone who'd rather skip the drive and enjoy a relaxing massage at Sara Beauty’s home spa, Sara Beauty offers professional home spa massage services across Abu Dhabi. Trained therapists provide the full spa experience at Sara Beauty’s home spa, using quality oils and a range of techniques — from Swedish and deep tissue to aromatherapy — tailored to your schedule and comfort.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Not everyone has time to drive across the city and book a full spa day. For residents who want the same quality of relaxation on their own schedule, home spa massage services have become a popular alternative in Abu Dhabi bringing trained therapists, professional-grade oils, and a full range of massage styles at Sara Beauty’s home spa.\"",
+    "after": "\"Not everyone has time to drive across the city and book a full spa day. For residents who want the same quality of relaxation on their own schedule, home spa massage services have become a popular alternative in Abu Dhabi providing trained therapists, professional-grade oils, and a full range of massage styles at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"For those who prefer the comfort and privacy of Sara Beauty’s home spa, Abu Dhabi offers a variety of home spa massage services . These services bring the spa experience at Sara Beauty’s home spa, allowing you to enjoy a wide range of treatments at Sara Beauty’s home spa. From deep tissue massages to personalized skincare treatments, home spa services are perfect for those with a busy schedule or anyone looking to create a relaxing oasis at Sara Beauty’s home spa.\"",
+    "after": "\"For those who prefer the comfort and privacy of Sara Beauty’s home spa, Abu Dhabi offers a variety of home spa massage services . These services provide the spa experience at Sara Beauty’s home spa, allowing you to enjoy a wide range of treatments at Sara Beauty’s home spa. From deep tissue massages to personalized skincare treatments, home spa services are perfect for those with a busy schedule or anyone looking to create a relaxing oasis at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"For those who prefer the comfort of their own space, the spa also offers a home spa massage service in Abu Dhabi. This allows you to enjoy a professional massage at Sara Beauty’s home spa. Whether you’re recovering from a strenuous workout or simply want to relax after a long day, this service provides the ultimate convenience. The therapists bring all the necessary equipment and create a serene environment, so you can experience the benefits of a spa-quality massage wherever you are.\"",
+    "after": "\"For those who prefer the comfort of their own space, the spa also offers a home spa massage service in Abu Dhabi. This allows you to enjoy a professional massage at Sara Beauty’s home spa. Whether you’re recovering from a strenuous workout or simply want to relax after a long day, this service provides the ultimate convenience. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"In today’s busy world, finding time to visit a spa can be a challenge. This is where Sara Beauty truly excels—by offering luxury home spa massage services , they bring the spa to you. Whether you’re a professional with a tight schedule or a parent needing relaxation after a long day, Sara Beauty provides the ultimate convenience of enjoying a professional massage in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"In today’s busy world, finding time to visit a spa can be a challenge. This is where Sara Beauty truly excels—by offering luxury home spa massage services , they provide the spa at our home spa. Whether you’re a professional with a tight schedule or a parent needing relaxation after a long day, Sara Beauty provides the ultimate convenience of enjoying a professional massage in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Clients don’t have to worry about traffic or travel; instead, they can enjoy a spa-like experience in a familiar environment. The therapists bring all the necessary equipment, including a massage table , oils, and accessories, ensuring that the experience is seamless from start to finish.\"",
+    "after": "\"Clients don’t have to worry about traffic or travel; instead, they can enjoy a spa-like experience in a familiar environment. Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Whether you’re in need of a relaxing aromatherapy massage , a therapeutic sports massage , or a tailored combination session , Sara Beauty brings the spa experience to you—ensuring that every client enjoys the best massage service in Abu Dhabi .\"",
+    "after": "\"Whether you’re in need of a relaxing aromatherapy massage , a therapeutic sports massage , or a tailored combination session , Sara Beauty offers the spa experience at our home spa—ensuring that every client enjoys the best massage service in Abu Dhabi .\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Convenient home spa appointments : Enjoy a luxurious spa experience in the comfort of Sara Beauty’s home spa, without the hassle of travel or waiting.\"",
+    "after": "\"Convenient home spa appointments : Enjoy a luxurious spa experience in the comfort of Sara Beauty’s home spa, during a visit to our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Each session begins with a consultation to discuss any areas of discomfort, medical conditions, and wellness goals. Our therapists create a tailored treatment plan that focuses on specific needs, ensuring an experience that’s uniquely suited to you.\"",
+    "after": "\"Each session begins with a consultation to discuss any areas of discomfort, medical conditions, and wellness goals. Our therapists create a tailored treatment plan that focuses on specific needs, ensuring an experience that’s uniquely suited at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"A home spa for women in Abu Dhabi brings these benefits at Sara Beauty’s home spa. With personalized services, a soothing ambiance, and expert therapists, you will experience the utmost relaxation.\"",
+    "after": "\"A home spa for women in Abu Dhabi offers these benefits at Sara Beauty’s home spa. With personalized services, a soothing ambiance, and expert therapists, you will experience the utmost relaxation.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty, we prioritize your well-being by delivering world-class spa experiences straight to you. Our commitment to excellence ensures that you receive personalized care and professional service in a truly relaxing environment. As the best home spa in Abu Dhabi , we pride ourselves on offering a luxurious spa experience to pamper you the way you deserve.\"",
+    "after": "\"At Sara Beauty, we prioritize your well-being by delivering world-class spa experiences straight at our home spa. Our commitment to excellence ensures that you receive personalized care and professional service in a truly relaxing environment. As the best home spa in Abu Dhabi , we pride ourselves on offering a luxurious spa experience to pamper you the way you deserve.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty & Slimming Home Spa , we bring the ultimate relaxation experience at Sara Beauty’s home spa in Abu Dhabi. Our Relaxing Massage is designed to melt away stress, ease muscle tension, and restore your inner balance all in the comfort of your space. With our certified therapists, premium oils, and soothing techniques , you’ll feel completely refreshed and rejuvenated.\"",
+    "after": "\"At Sara Beauty & Slimming Home Spa , we provide the ultimate relaxation experience at Sara Beauty’s home spa in Abu Dhabi. Our Relaxing Massage is designed to melt away stress, ease muscle tension, and restore your inner balance all in our private home spa. With our certified therapists, premium oils, and soothing techniques , you’ll feel completely refreshed and rejuvenated.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"In today's fast-paced world, finding time for self-care can be a challenge. That’s why Sara Beauty & Slimming Home Spa brings luxury home spa services in Abu Dhabi at Sara Beauty’s home spa.\"",
+    "after": "\"In today's fast-paced world, finding time for self-care can be a challenge. That’s why Sara Beauty & Slimming Home Spa offers luxury home spa services in Abu Dhabi at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Saves time & travel – No need to visit a salon; we come to you.\"",
+    "after": "\"Saves time & travel – No need to visit a salon; we come at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Let us bring the spa experience to you , where comfort meets tranquility. Unwind, refresh, and revitalize —because you deserve it!\"",
+    "after": "\"Let us provide the spa experience at our home spa , where comfort meets tranquility. Unwind, refresh, and revitalize —because you deserve it!\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Given all that life throws at you, pausing to breathe and relax is not only a luxury but also a need. Sarabeauty Home Spa brings the spa at Sara Beauty’s home spa so you may completely unwind in the comfort of Sara Beauty’s home spa.\"",
+    "after": "\"Given all that life throws at you, pausing to breathe and relax is not only a luxury but also a need. Sarabeauty Home Spa offers the spa at Sara Beauty’s home spa so you may completely unwind in the comfort of Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"We bring everything to you—no traffic, no waiting rooms—just calm.\"",
+    "after": "\"We provide everything at our home spa—no traffic, no waiting rooms—just calm.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Every session is customized to you; we adjust it depending on how you’re feeling that day.\"",
+    "after": "\"Every session is customized at our home spa; we adjust it depending on how you’re feeling that day.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Mother's Day is an opportunity to celebrate the woman who means most to you. This year, rather than the same old flowers or candy, consider gifting her a memorable experience of relaxation and self-care.\"",
+    "after": "\"Mother's Day is an opportunity to celebrate the woman who means most at our home spa. This year, rather than the same old flowers or candy, consider gifting her a memorable experience of relaxation and self-care.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Prepare your space (quiet room, clean towels, optional candles or music)\"",
+    "after": "\"Visit our home spa at your confirmed appointment time; our team prepares the treatment space.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"5. Zen at Sara Beauty’s home spa: A Wide Range of Massage Choices\"",
+    "after": "\"5. Zen at Home: A Wide Range of Massage Choices\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Travel or parking charges\"",
+    "after": "\"Any additional treatment charges\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Hotel access charges\"",
+    "after": "\"What is included in the appointment\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Items the therapist will bring\"",
+    "after": "\"Products and equipment provided at the spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Your service area and arrival time\"",
+    "after": "\"The home spa address and your appointment time\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Can a therapist visit my hotel room?\"",
+    "after": "\"Where do Sara Beauty appointments take place?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"What does a therapist usually bring?\"",
+    "after": "\"What is provided at the home spa?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Comfort and privacy of your own environment\"",
+    "after": "\"Comfort and privacy of our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Options for home or hotel massage sessions\"",
+    "after": "\"Massage sessions at Sara Beauty’s private home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Time Efficiency – No commuting or waiting in queues.\"",
+    "after": "\"Flexible Scheduling – Plan your home spa visit around your day.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Convenience – No need to commute or wait in long queues.\"",
+    "after": "\"Convenience – Book your preferred time to visit our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No Travel Hassles : Avoid traffic and parking struggles.\"",
+    "after": "\"Easy Booking: Contact our team to plan your spa visit.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Convenience – No need to travel in the cooler evenings.\"",
+    "after": "\"Convenience – Arrange a spa visit at a time that suits you.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa Service - No need to travel; healing begins in your comfort zone.\"",
+    "after": "\"home spa Service - you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty brings professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\"",
+    "after": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty offers professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty brings professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\"",
+    "after": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty offers professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty brings professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\"",
+    "after": "\"Brazilian Maderotherapy in Abu Dhabi. SaraBeauty offers professional wooden therapy treatments at Sara Beauty’s home spa for slimming, relaxation, and confidence.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Comfort of Home: No travel, no traffic, just pure comfort in your own environment.\"",
+    "after": "\"Comfort of Home: No travel, no traffic, just pure comfort in our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Mobile service. no need to travel after a tiring workout\"",
+    "after": "\"Private home spa sessions for relaxation after a workout\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"A Deep Tissue Massage in Abu Dhabi with Sara Beauty Home Spa brings this professional therapy at Sara Beauty’s home spa, allowing you to experience relief, comfort, and renewal at Sara Beauty’s home spa.\"",
+    "after": "\"A Deep Tissue Massage in Abu Dhabi with Sara Beauty Home Spa offers this professional therapy at Sara Beauty’s home spa, allowing you to experience relief, comfort, and renewal at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Booking a home deep tissue massage in Abu Dhabi with Sara Beauty allows athletes to recover faster without wasting time traveling to a spa or clinic.\"",
+    "after": "\"Booking a deep tissue massage at our home spa in Abu Dhabi with Sara Beauty allows athletes to recover faster during a visit to our private home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Our professional therapists bring all necessary equipment, ensuring a spa-quality experience wherever you are.\"",
+    "after": "\"Our team prepares the treatment equipment and products at our home spa before your appointment.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"At Sara Beauty , we bring the spa experience directly to you, transforming Sara Beauty’s home spa into a sanctuary of relaxation and recovery. Our goal is to make deep tissue therapy not only accessible but also deeply personalized to your needs.\"",
+    "after": "\"At Sara Beauty , we provide the spa experience at our home spa, welcoming you into a peaceful setting for relaxation and recovery. Our goal is to make deep tissue therapy not only accessible but also deeply personalized to your needs.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Choosing an home spa deep tissue massage isn’t just about convenience it’s about comfort, privacy, and time efficiency. Many clients prefer home spa appointments because they can unwind fully in a familiar space, free from distractions or travel fatigue.\"",
+    "after": "\"Choosing a home spa deep tissue massage isn’t just about convenience it’s about comfort, privacy, and time efficiency. Many clients prefer home spa appointments because they can unwind fully in a familiar space, with personal attention from our team.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Key reasons to choose a home deep tissue massage:\"",
+    "after": "\"Key reasons to choose a deep tissue massage at our home spa:\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No need to travel or wait at a spa\"",
+    "after": "\"Book a time to visit our private home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"When you book a deep tissue home spa massage in Abu Dhabi with Sara Beauty , our therapists handle every detail from start to finish. We arrive fully equipped with everything required for a complete spa setup from professional massage tables and premium oils to fresh towels and soothing music.\"",
+    "after": "\"When you book a deep tissue home spa massage in Abu Dhabi with Sara Beauty , our therapists handle every detail from start to finish. Our home spa is prepared with the equipment, oils and fresh towels needed for your treatment.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"The Process: What to Expect During a Home Deep Tissue Massage\"",
+    "after": "\"The Process: What to Expect During a deep tissue massage at our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"The process of receiving a home deep tissue massage in Abu Dhabi is seamless and tailored to your individual preferences.\"",
+    "after": "\"The process of receiving a deep tissue massage at our home spa in Abu Dhabi is seamless and tailored to your individual preferences.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Time efficiency — no commute or waiting time\"",
+    "after": "\"Flexible scheduling — book a time for your spa visit\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty maintains the highest hygiene standards during every home deep tissue massage in Abu Dhabi session.\"",
+    "after": "\"Sara Beauty maintains the highest hygiene standards during every deep tissue massage at our home spa in Abu Dhabi session.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Quick Comparison: Home Deep Tissue Massage vs Spa Visit\"",
+    "after": "\"Quick Comparison: deep tissue massage at our home spa vs Spa Visit\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"FAQ – Is a Home Deep Tissue Massage as Effective as a Spa Treatment?\"",
+    "after": "\"FAQ – Is a deep tissue massage at our home spa as Effective as a Spa Treatment?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Q: Is a home deep tissue massage as effective as a professional spa session? A: Absolutely. At Sara Beauty , our certified therapists bring professional equipment and expertise at Sara Beauty’s home spa, ensuring the same quality results as a high-end spa. In fact, sessions at our home spa can be even more effective because you can relax more deeply in your own environment, enhancing the massage’s benefits and recovery effects.\"",
+    "after": "\"Q: Is a deep tissue massage at our home spa as effective as a professional spa session? A: Absolutely. At Sara Beauty , our certified therapists provide professional equipment and expertise at Sara Beauty’s home spa, ensuring the same quality results as a high-end spa. In fact, sessions at our home spa can be even more effective because you can relax more deeply in our private home spa, enhancing the massage’s benefits and recovery effects.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Yes, Sara Beauty offers professional home Deep Tissue Massage services across Abu Dhabi, including Corniche, Khalidiya, and Saadiyat Island areas. Our therapists bring a full spa setup to ensure a relaxing experience at Sara Beauty’s home spa.\"",
+    "after": "\"Yes, Sara Beauty offers professional deep tissue massage at our home spa services across Abu Dhabi, including Corniche, Khalidiya, and Saadiyat Island areas. Our therapists provide a full spa setup to ensure a relaxing experience at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, service area, and booking time.\"",
+    "after": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, and booking time at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, service area, and booking time.\"",
+    "after": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, and booking time at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No travel or waiting time\"",
+    "after": "\"Appointments at our private home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Arrival and setup by the female therapist\"",
+    "after": "\"A welcome and consultation at our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Share your location in Abu Dhabi.\"",
+    "after": "\"Ask our team for directions to the home spa in Abu Dhabi.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Prepare a quiet space before the therapist arrives.\"",
+    "after": "\"Arrive at our home spa at your confirmed appointment time.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Can I book a massage at my apartment, villa, or hotel?\"",
+    "after": "\"Can I visit Sara Beauty’s home spa for a massage?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"What should I prepare before the therapist arrives?\"",
+    "after": "\"What should I prepare before your spa appointment?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Popular service areas include Khalifa City, Reem Island, Yas Island, Al Raha Beach, Mussafah, and Al Reef.\"",
+    "after": "\"Women from across Abu Dhabi are welcome to book a visit to Sara Beauty’s private home spa. Contact our team for the spa address and directions.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, service area, and booking time.\"",
+    "after": "\"Book a private home spa massage for ladies in Abu Dhabi with a female therapist. Choose your treatment, session length, and booking time at our home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Why Choose Home Deep tissue massage in Abu Dhabi\"",
+    "after": "\"Why Choose deep tissue massage at our home spa in Abu Dhabi\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"In a busy city like Abu Dhabi, convenience plays a major role in wellness choices. Many residents now prefer booking Deep tissue massage at Sara Beauty’s home spa instead of visiting a spa. home spa appointments eliminates travel stress and allows clients to enjoy Deep tissue massage in a familiar and relaxing environment. This modern approach to wellness perfectly suits the fast moving lifestyle of the UAE.\"",
+    "after": "\"In a busy city like Abu Dhabi, convenience plays a major role in wellness choices. Many residents now prefer booking Deep tissue massage at Sara Beauty’s home spa for a private spa visit. Home spa appointments allow clients to enjoy Deep tissue massage in a familiar and relaxing environment. This modern approach to wellness perfectly suits the fast moving lifestyle of the UAE.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Deep tissue massage at Sara Beauty’s home spa is especially beneficial for professionals, parents, and individuals with tight schedules. After a long workday or intense workout, receiving Deep tissue massage at Sara Beauty’s home spa helps the body relax more effectively. There is no need to drive through traffic or wait at crowded spas, which makes the entire experience smoother and more comfortable.\"",
+    "after": "\"Deep tissue massage at Sara Beauty’s home spa is especially beneficial for professionals, parents, and individuals with tight schedules. After a long workday or intense workout, receiving Deep tissue massage at Sara Beauty’s home spa helps the body relax more effectively. you can book a private appointment at Sara Beauty’s home spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Spa visit: Requires travel and waiting time\"",
+    "after": "\"Spa visit: Book your appointment before you arrive\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Saves travel time in busy areas\"",
+    "after": "\"Flexible appointment times\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"When the therapist arrives, they bring a professional massage table, clean linens, and premium oils. Before starting Deep tissue massage, a brief consultation is conducted to understand your pain points, medical history, and pressure preference. This step ensures the Deep tissue massage session is tailored specifically to your body’s needs.\"",
+    "after": "\"before your spa appointment, they bring a professional massage table, clean linens, and premium oils. Before starting Deep tissue massage, a brief consultation is conducted to understand your pain points, medical history, and pressure preference. This step ensures the Deep tissue massage session is tailored specifically to your body’s needs.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Sara Beauty has become one of the most trusted providers of Deep tissue massage in Abu Dhabi. The company specializes in bringing professional wellness services at Sara Beauty’s home spa, offering both convenience and high quality care. Many residents prefer Sara Beauty for its consistent results, hygienic practices, and personalized approach.\"",
+    "after": "\"Sara Beauty has become one of the most trusted providers of Deep tissue massage in Abu Dhabi. The company specializes in providing professional wellness services at Sara Beauty’s home spa, offering both convenience and high quality care. Many residents prefer Sara Beauty for its consistent results, hygienic practices, and personalized approach.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"To book your Deep tissue massage, start by choosing your preferred date and time. Sara Beauty’s trained therapists arrive fully equipped with clean linens, premium oils, and professional massage tools. The team conducts a brief consultation to understand your pain points, ensuring that each session is tailored to your needs.\"",
+    "after": "\"To book your Deep tissue massage, start by choosing your preferred date and time. Our therapists welcome you at Sara Beauty’s home spa, where everything is prepared for your session. The team conducts a brief consultation to understand your pain points, ensuring that each session is tailored to your needs.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Therapist arrives at Sara Beauty’s home spa, ready for the session\"",
+    "after": "\"A welcome and consultation at our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Comfort of your own environment\"",
+    "after": "\"Comfort of our private home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"On-time therapist arrival\"",
+    "after": "\"A welcome and consultation at our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No traffic or waiting time\"",
+    "after": "\"A calm setting for your appointment\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No commuting required\"",
+    "after": "\"Visit our private home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Therapists arrive on time and behave professionally\"",
+    "after": "\"Therapists provide attentive, professional care at the spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Confirm your location\"",
+    "after": "\"Confirm your appointment and ask for directions to our home spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa appointments means you enjoy a full hammam experience at Sara Beauty’s home spa at Sara Beauty’s home spa or wellness center.\"",
+    "after": "\"A home spa appointment means you enjoy a full hammam experience at Sara Beauty’s home spa at Sara Beauty’s home spa or wellness center.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"You save time by eliminating travel and waiting room delays\"",
+    "after": "\"You plan a private spa visit around your schedule\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"You recover better because you can rest immediately after your session without having to commute home\"",
+    "after": "\"You recover better because you can rest immediately after your session following your therapist’s aftercare advice\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"home spa appointments sessions may carry a small additional convenience fee, but the comfort, privacy, and time saved make it a worthwhile investment in your health and well-being.\"",
+    "after": "\"Home spa sessions may carry a small additional convenience fee, but the comfort, privacy, and time saved make it a worthwhile investment in your health and well-being.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Do you offer home spa appointments massage in Abu Dhabi?\"",
+    "after": "\"Do you offer home spa massage in Abu Dhabi?\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"No commute time — especially valuable after a long work day\"",
+    "after": "\"A relaxing home spa visit after a long work day\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"We provide home spa massage services in Al Reem Island, Al Maryah Island, Saadiyat Island, Khalifa City, Corniche, Khalidiya and surrounding areas.\"",
+    "after": "\"We welcome women from Al Reem Island, Al Maryah Island, Saadiyat Island, Khalifa City, Corniche, Khalidiya and surrounding areas to Sara Beauty’s home spa in Abu Dhabi. All appointments take place at our spa.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"On-time arrival\"",
+    "after": "\"Attentive service\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Punctual arrival\"",
+    "after": "\"Attentive service\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Professional communication before arrival\"",
+    "after": "\"Professional communication before your spa visit\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Massage at Sara Beauty’s home spa Abu Dhabi\"",
+    "after": "\"massage services at our home spa in Abu Dhabi\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Step 2: Professional Arrival and Home Spa Setup\"",
+    "after": "\"Step 2: Welcome and Preparation at Our Home Spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Professional portable massage table\"",
+    "after": "\"Professional massage table at the spa\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Punctual arrival builds trust.\"",
+    "after": "\"Attentive care builds trust.\""
+  },
+  {
+    "file": "src\\data\\site.ts",
+    "before": "\"Step 1: Arrival and Professional Setup\"",
+    "after": "\"Step 1: Welcome and Preparation at Our Home Spa\""
+  }
+]

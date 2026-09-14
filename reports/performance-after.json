@@ -1,0 +1,22 @@
+{
+  "index": {
+    "javaScriptGzipBytes": 202263,
+    "scriptFiles": 9,
+    "htmlGzipBytes": 25831
+  },
+  "about-us": {
+    "javaScriptGzipBytes": 190052,
+    "scriptFiles": 8,
+    "htmlGzipBytes": 10583
+  },
+  "services": {
+    "javaScriptGzipBytes": 196635,
+    "scriptFiles": 9,
+    "htmlGzipBytes": 20233
+  },
+  "locations/khalidiya": {
+    "javaScriptGzipBytes": 192382,
+    "scriptFiles": 9,
+    "htmlGzipBytes": 21582
+  }
+}
