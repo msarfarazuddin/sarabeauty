@@ -109,8 +109,17 @@ export default async function BlogDetailPage({ params }: BlogPageProps) {
       <article className="mx-auto w-full max-w-[1000px] px-5 pb-20 pt-10 sm:px-8 sm:pt-14 lg:pb-28">
         <div className="relative mx-auto aspect-[1.35/1] w-full max-w-[620px] overflow-hidden rounded-[14px] shadow-[0_8px_24px_rgba(57,94,76,0.14)]"><Image src={getBlogImage(post.image, post.slug)} alt={post.title} fill priority sizes="(max-width: 768px) 100vw, 620px" className="object-contain" /></div>
         <div className="mx-auto mt-10 max-w-[1000px] text-[#272727] sm:mt-12">
-          {sections.map((section, sectionIndex) => <section key={sectionIndex} className="mb-8 last:mb-0 sm:mb-10">{section.heading ? <h2 className="text-[28px] font-semibold leading-[1.12] text-[#242424] sm:text-[33px]">{section.heading}</h2> : null}{section.subheading ? <h3 className="mt-2 text-[21px] font-semibold leading-tight text-[#363636] sm:text-[24px]">{section.subheading}</h3> : null}<div className="mt-3 space-y-3 whitespace-pre-line text-[15px] leading-[1.62] text-[#4d4d4d] sm:text-[16px]">{(section.paragraphs ?? []).map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>{section.bullets ? <ul className="mt-3 list-disc space-y-1 pl-5 text-[15px] leading-[1.5] text-[#4d4d4d] sm:text-[16px]">{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul> : null}</section>)}
-          {faqs?.length ? <section className="mt-11 border-t border-[#395E4C]/15 pt-9 sm:mt-14"><h2 className="text-[29px] font-semibold leading-[1.12] text-[#242424] sm:text-[34px]">Frequently Asked Questions</h2><div className="mt-6 space-y-7">{faqs.map((faq) => <div key={faq.question}><h3 className="text-[20px] font-semibold leading-tight text-[#303030] sm:text-[23px]">{faq.question}</h3>{faq.answer ? <p className="mt-2 whitespace-pre-line text-[15px] leading-[1.62] text-[#4d4d4d] sm:text-[16px]">{faq.answer}</p> : null}</div>)}</div></section> : null}
+          {post.contentHtml ? (
+            <div
+              className="blog-content"
+              dangerouslySetInnerHTML={{ __html: post.contentHtml }}
+            />
+          ) : (
+            <>
+              {sections.map((section, sectionIndex) => <section key={sectionIndex} className="mb-8 last:mb-0 sm:mb-10">{section.heading ? <h2 className="text-[28px] font-semibold leading-[1.12] text-[#242424] sm:text-[33px]">{section.heading}</h2> : null}{section.subheading ? <h3 className="mt-2 text-[21px] font-semibold leading-tight text-[#363636] sm:text-[24px]">{section.subheading}</h3> : null}<div className="mt-3 space-y-3 whitespace-pre-line text-[15px] leading-[1.62] text-[#4d4d4d] sm:text-[16px]">{(section.paragraphs ?? []).map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>{section.bullets ? <ul className="mt-3 list-disc space-y-1 pl-5 text-[15px] leading-[1.5] text-[#4d4d4d] sm:text-[16px]">{section.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul> : null}</section>)}
+              {faqs?.length ? <section className="mt-11 border-t border-[#395E4C]/15 pt-9 sm:mt-14"><h2 className="text-[29px] font-semibold leading-[1.12] text-[#242424] sm:text-[34px]">Frequently Asked Questions</h2><div className="mt-6 space-y-7">{faqs.map((faq) => <div key={faq.question}><h3 className="text-[20px] font-semibold leading-tight text-[#303030] sm:text-[23px]">{faq.question}</h3>{faq.answer ? <p className="mt-2 whitespace-pre-line text-[15px] leading-[1.62] text-[#4d4d4d] sm:text-[16px]">{faq.answer}</p> : null}</div>)}</div></section> : null}
+            </>
+          )}
           <BookingLink target="_blank" rel="noopener noreferrer" className="mt-12 inline-flex items-center gap-2 rounded-full bg-[#395E4C] px-6 py-3 text-[14px] font-bold text-white transition hover:bg-[#395E4C]"><WhatsAppIcon className="h-4 w-4" /> Book an appointment</BookingLink>
         </div>
       </article>
