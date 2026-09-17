@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import blogData from "./src/data/card-data.json";
 
 const isDevelopment = process.env.NODE_ENV === "development";
 // Static Next.js pages use inline hydration scripts; keep prerendering and
@@ -118,6 +119,10 @@ const legacyBlogSlugs = [
   "total-relaxing-massage-in-abu-dhabi-by-sara-beauty",
 ];
 
+const allBlogSlugs = Array.from(
+  new Set([...legacyBlogSlugs, ...blogData.posts.map((post) => post.slug)]),
+);
+
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   trailingSlash: true,
@@ -136,7 +141,7 @@ const nextConfig: NextConfig = {
         destination: `/services/${destination}/`,
         permanent: true,
       })),
-      ...legacyBlogSlugs.map((slug) => ({
+      ...allBlogSlugs.map((slug) => ({
         source: `/${slug}/`,
         destination: `/blogs/${slug}/`,
         permanent: true,
