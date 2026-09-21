@@ -47,7 +47,7 @@
           },
           "image": "https://sarabeauty.ae/",
           "description": "Sara Beauty is a private spa in Abu Dhabi offering professional massage and wellness treatments including Deep Tissue, Relaxing, Sports, Aromatherapy, Lymphatic Drainage, Maderotherapy, Thai, Prenatal and other massage services.",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "priceRange": "AED 99-299",
           "address": {
@@ -75,7 +75,7 @@
           "name": "Sara Beauty",
           "url": "https://sarabeauty.ae/",
           "email": "info@sarabeauty.ae",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "logo": {
             "@type": "ImageObject",
             "url": "https://sarabeauty.ae/wp-content/uploads/2026/07/sara-beauty-logo.png"
@@ -158,7 +158,7 @@
             "url": "https://sarabeauty.ae/assets/color%20logo.png"
           },
           "description": "Sara Beauty is a private spa in Abu Dhabi providing professional massage and wellness treatments with experienced female therapists.",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "address": {
             "@type": "PostalAddress",
@@ -261,7 +261,7 @@
           "name": "Sara Beauty",
           "alternateName": "Sara Beauty & Slimming Home Spa",
           "url": "https://sarabeauty.ae/",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "description": "Sara Beauty is a private spa in Abu Dhabi offering professional massage and wellness treatments with experienced female therapists.",
           "address": {
@@ -509,7 +509,7 @@
           "@id": "https://sarabeauty.ae/#organization",
           "name": "Sara Beauty",
           "url": "https://sarabeauty.ae/",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "address": {
             "@type": "PostalAddress",
@@ -637,7 +637,7 @@
           "@id": "https://sarabeauty.ae/#organization",
           "name": "Sara Beauty",
           "url": "https://sarabeauty.ae/",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "address": {
             "@type": "PostalAddress",
@@ -748,7 +748,7 @@
           "@id": "https://sarabeauty.ae/#organization",
           "name": "Sara Beauty",
           "url": "https://sarabeauty.ae/",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "address": {
             "@type": "PostalAddress",
@@ -912,7 +912,7 @@
           "@id": "https://sarabeauty.ae/#organization",
           "name": "Sara Beauty",
           "url": "https://sarabeauty.ae/",
-          "telephone": "+971556230899",
+          "telephone": "+971544297974",
           "email": "info@sarabeauty.ae",
           "address": {
             "@type": "PostalAddress",

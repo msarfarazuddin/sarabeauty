@@ -63,9 +63,6 @@ export default function SiteFooter() {
           </div>
 
           <div className="mt-4 space-y-1 text-[17px] font-semibold text-black">
-            <a href="tel:+971556230899" className="block">
-              +971 556 230 899
-            </a>
             <a href="tel:+971544297974" className="block">
               +971 544 297 974
             </a>

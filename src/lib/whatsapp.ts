@@ -16,5 +16,5 @@ export function whatsappBookingUrl(context: BookingContext) {
     context.price !== undefined && `Package price: AED ${context.price.toLocaleString("en-US")}`,
     "Please confirm availability. Thank you!",
   ].filter(Boolean).join("\n");
-  return `https://wa.me/${context.phone ?? "971556230899"}?text=${encodeURIComponent(message)}`;
+  return `https://wa.me/${context.phone ?? "971544297974"}?text=${encodeURIComponent(message)}`;
 }

@@ -8,7 +8,7 @@ import { MapSection } from "@/components/map-section";
 const contactItems = [
   { label: "Email", value: "info@sarabeauty.ae", href: "mailto:info@sarabeauty.ae", icon: Mail },
   { label: "Clinic", value: "Khalid bin Waleed Street PO Box 36493\nAbu Dhabi - U.A.E", href: "https://www.google.com/maps?q=Sara+Beauty+Home+Massage+%26+Spa+Service+Abu+Dhabi", icon: MapPin },
-  { label: "Customer service", value: "+971 556 230 899", href: "tel:+971556230899", icon: Phone },
+  { label: "Customer service", value: "+971 544 297 974", href: "tel:+971544297974", icon: Phone },
 ];
 
 export const metadata = pageMetadata("/contact");
