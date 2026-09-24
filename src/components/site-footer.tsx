@@ -149,7 +149,17 @@ export default function SiteFooter() {
       <div className="bg-[#395E4C] text-white">
         <div className="mx-auto flex max-w-[1470px] flex-col items-center justify-between gap-1 px-6 py-3 text-center text-[14px] md:flex-row md:text-[16px]">
           <p>© Copyright 2026 by Sara Beauty</p>
-          <p>Powered by Express Marketing</p>
+          <p>
+            Powered by{" "}
+            <a
+              href="http://aspiredigital.pk/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transition hover:text-[#f9f5e0]"
+            >
+              Express Marketing
+            </a>
+          </p>
         </div>
       </div>
     </footer>
