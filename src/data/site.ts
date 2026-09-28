@@ -912,16 +912,15 @@ export const allServices: Service[] = [
     slug: "full-body-scrub",
     name: "Full Body Scrub",
     image: "/assets/Full-Body-Scrub.webp",
-    heroTitle: "Radiance Starts with a Polish",
+    heroTitle: "Relax, Refresh & Renew",
     heroSubtitle: "Restore Your Natural Glow with Our Full Body Scrub in Abu Dhabi",
     intro: [
       "A full body scrub in Abu Dhabi is a standard body treatment often referred to as a body facial. This process involves exfoliating and moisturizing the skin, leaving it soft and refreshed. Our full body scrub in Abu Dhabi is performed with a rough material blended in with some type of massaging oil and a sweet-smelling like essential oils, commonly ocean salt or sugar.",
-      "A body scrub eliminates dead skin cells, expands blood dissemination, and purges skin through peeling, removing dead skin cells improves blood circulation and eliminates dullness from the skin. As a result, using a body scrub on a regular basis might help your skin seem more bright and youthful. Exfoliation opens up your pores, making it easier to absorb moisturizer. Treat yourself to this indulgent experience, and let your skin shine with renewed vitality. Book your Full Body Scrub session today for a revitalizing journey to skin wellness.",
+      "Treat your body to the ultimate wellness experience with our Massage + Full Body Scrub Combo.\n\nBegin with a relaxing massage designed to ease muscle tension, promote circulation, and help you unwind. Follow it with a rejuvenating full-body scrub that gently exfoliates dead skin cells, removes dullness, and leaves your skin feeling smoother, softer, and refreshed.\n\nTogether, this indulgent combination provides the perfect balance of deep relaxation and complete skin renewal helping you feel refreshed from head to toe.",
     ],
     pricingTitle: "",
     prices: [
-      { duration: "60 min", single: "AED 99", package: "" },
-      { duration: "90 min", single: "", package: "" },
+      { duration: "Massage + Full Body Scrub - 90 min", single: "AED 249", package: "" },
     ],
     sections: [],
     faqs: [

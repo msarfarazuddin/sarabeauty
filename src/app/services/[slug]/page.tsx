@@ -86,7 +86,7 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
                 <div key={column.title} className="px-2 py-8 first:pt-0 last:pb-0 md:px-6 md:py-0">
                   <h3 className="text-[34px] sm:text-[38px]" style={{ fontFamily: "var(--font-display), serif" }}>{column.title}</h3>
                   {column.rows.map((row) => (
-                    <p key={row.duration} className="mx-auto mt-6 grid w-full max-w-[280px] grid-cols-[1fr_auto] gap-x-8 whitespace-nowrap text-left text-[19px] leading-[1.6] sm:text-[21px]">
+                    <p key={row.duration} className="mx-auto mt-6 grid w-full max-w-[420px] grid-cols-[minmax(0,1fr)_auto] items-start gap-x-8 text-left text-[19px] leading-[1.6] sm:text-[21px]">
                       <span>{row.duration}</span><span>{row.amount}</span>
                     </p>
                   ))}
