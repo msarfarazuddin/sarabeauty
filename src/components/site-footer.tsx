@@ -76,6 +76,15 @@ export default function SiteFooter() {
               info@sarabeauty.ae
             </a>
 
+            <a
+              href="https://share.google/4U5cs1Fv95G1IhuLo"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block font-semibold text-[#395E4C] transition hover:text-black"
+            >
+              View Location on Google Maps
+            </a>
+
             <p>
               Khalid bin Waleed Street PO Box 36493
               <br />
