@@ -10,9 +10,6 @@ import { WhatsAppIcon } from "@/components/whatsapp-icon";
 export default function SiteFooter() {
   return (
     <footer className="relative bg-[#f9f5e0] text-[#5E5B57]">
-      <p className="mx-auto max-w-[1180px] px-6 pt-8 text-center text-sm leading-6">
-        All treatments take place at Sara Beauty’s private home spa in Abu Dhabi. Clients visit us for their appointments; we do not offer home visits.
-      </p>
       <div className="mx-auto grid max-w-[1320px] grid-cols-1 gap-7 px-6 py-8 md:grid-cols-[220px_1fr_1fr] md:gap-10 md:px-10 lg:gap-16 lg:py-10">
         {/* Logo + Back to top */}
         <div className="flex flex-col items-center md:items-start">
@@ -138,9 +135,14 @@ export default function SiteFooter() {
             Follow Us
           </h3>
 
-          <span className="text-[17px]">
+          <a
+            href="https://www.instagram.com/sarabeauty.ae_/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[17px] transition hover:text-[#395E4C]"
+          >
             Instagram
-          </span>
+          </a>
         </div>
       </div>
 
