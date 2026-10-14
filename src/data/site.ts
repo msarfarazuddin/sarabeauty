@@ -920,7 +920,7 @@ export const allServices: Service[] = [
     ],
     pricingTitle: "",
     prices: [
-      { duration: "Massage + Full Body Scrub - 90 min", single: "AED 249", package: "" },
+      { duration: "Massage + Full Body Scrub - 90 min", single: "AED 279", package: "" },
     ],
     sections: [],
     faqs: [
